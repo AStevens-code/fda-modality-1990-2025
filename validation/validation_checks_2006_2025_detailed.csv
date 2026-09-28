@@ -1,0 +1,25 @@
+check,result,detail
+no duplicate moiety across years,PASS,dups=0
+every moiety exactly one final class,PASS,
+ADC not double-counted as Antibody,PASS,
+all years within 2006-2025,PASS,range=2006-2025
+class totals sum to universe,PASS,766 moieties
+no null final_class,PASS,
+landmark PEMBROLIZUMAB,PASS,got year=2014 class=Antibody expected 2014/Antibody
+landmark FAM TRASTUZUMAB DERUXTECAN,PASS,got year=2019 class=ADC expected 2019/ADC
+landmark SEMAGLUTIDE,PASS,got year=2017 class=Peptide expected 2017/Peptide
+landmark LECANEMAB,PASS,got year=2023 class=Antibody expected 2023/Antibody
+landmark NUSINERSEN,PASS,got year=2016 class=Oligonucleotide expected 2016/Oligonucleotide
+landmark SOFOSBUVIR,PASS,got year=2013 class=Small molecule expected 2013/Small molecule
+landmark TIRZEPATIDE,PASS,got year=2022 class=Peptide expected 2022/Peptide
+landmark BRENTUXIMAB VEDOTIN,PASS,got year=2011 class=ADC expected 2011/ADC
+landmark IVACAFTOR,PASS,got year=2012 class=Small molecule expected 2012/Small molecule
+landmark PATISIRAN,PASS,got year=2018 class=Oligonucleotide expected 2018/Oligonucleotide
+landmark DONANEMAB,PASS,got year=2024 class=Antibody expected 2024/Antibody
+landmark NIRMATRELVIR,PASS,got year=2023 class=Small molecule expected 2023/Small molecule
+landmark INCLISIRAN,PASS,got year=2021 class=Oligonucleotide expected 2021/Oligonucleotide
+landmark ELRANATAMAB,PASS,got year=2023 class=Antibody expected 2023/Antibody
+ChEMBL first_approval within +/-1yr for >=85%,PASS,92.3% of 653 matched; median |diff|=0
+year-anchor outliers are all ChEMBL-earlier (ex-US first approval),PASS,39/39 negative; ChEMBL records first GLOBAL approval
+per-year total correlates with CDER published (r>=0.98),PASS,r=0.9979
+per-year total within +/-3 of CDER published,PASS,max|diff|=2

@@ -1,0 +1,22 @@
+moiety,brands,approval_year,application_number,subcategory,why_other,era_confidence,sponsor,final_basis
+COLFOSCERIL,EXOSURF NEONATAL,1990,NDA020044,pulmonary surfactant,"phospholipid/protein mixture, not a single defined molecule",lower,GLAXOSMITHKLINE,rule+model (2 of 3)
+BERACTANT,SURVANTA,1991,BLA020032,pulmonary surfactant,"bovine lung extract, phospholipid/protein mixture",lower,ABBVIE,rule only (no ChEMBL match)
+ENOXAPARIN,LOVENOX|LOVENOX (PRESERVATIVE FREE),1993,NDA020164,low-molecular-weight heparin,heterogeneous sulfated polysaccharide mixture,lower,SANOFI AVENTIS US,hand-adjudicated (glycan)
+DALTEPARIN,FRAGMIN,1994,NDA020287,low-molecular-weight heparin,heterogeneous sulfated polysaccharide mixture,lower,PFIZER,hand-adjudicated (glycan)
+CALFACTANT,INFASURF PRESERVATIVE FREE,1998,BLA020521,pulmonary surfactant,"calf lung extract, phospholipid/protein mixture",lower,ONY,rule only (no ChEMBL match)
+PORACTANT ALFA,CUROSURF,1999,BLA020744,pulmonary surfactant,"porcine lung extract, phospholipid/protein mixture",lower,CHIESI USA INC,rule only (no ChEMBL match)
+TINZAPARIN,INNOHEP,2000,NDA020484,low-molecular-weight heparin,heterogeneous sulfated polysaccharide mixture,lower,LEO PHARMA AS,hand-adjudicated (glycan)
+SINECATECHINS,VEREGEN,2006,NDA021902,botanical mixture,"green-tea catechin extract, not a single entity",validated,ANI PHARMS,carried from validated 2006-2025 set
+CROFELEMER,MYTESI,2012,NDA202292,botanical mixture,plant proanthocyanidin oligomer mixture,validated,NAPO PHARMS INC,carried from validated 2006-2025 set
+LUCINACTANT,SURFAXIN,2012,NDA021746,pulmonary surfactant,synthetic phospholipid/peptide mixture,validated,LEES PHARM HK,carried from validated 2006-2025 set
+TECHNETIUM TC 99M TILMANOCEPT,LYMPHOSEEK KIT,2013,NDA202207,radiodiagnostic,dextran-based radiolabelled imaging colloid,validated,CARDINAL HEALTH 414,carried from validated 2006-2025 set
+SULFUR HEXAFLUORIDE LIPID TYPE A MICROSPHERES,LUMASON,2014,NDA203684,imaging agent,lipid-shell gas microsphere contrast agent,validated,BRACCO,carried from validated 2006-2025 set
+PATIROMER,VELTASSA,2015,NDA205739,non-absorbed binder,crosslinked polymeric potassium binder,validated,VIFOR PHARMA,hand-adjudicated: non-absorbed polymeric potassium binder (ChEMBL types polymers as small molecule)
+SUGAMMADEX,BRIDION,2015,NDA022225,engineered oligosaccharide,modified gamma-cyclodextrin,validated,MSD SUB MERCK,carried from validated 2006-2025 set
+FISH OIL TRIGLYCERIDES,OMEGAVEN,2018,NDA210589,natural product mixture,natural triglyceride mixture,validated,FRESENIUS KABI USA,carried from validated 2006-2025 set
+ZIRCONIUM CYCLOSILICATE,LOKELMA,2018,NDA207078,non-absorbed binder,inorganic potassium-binding silicate,validated,ASTRAZENECA,carried from validated 2006-2025 set
+AIR POLYMER TYPE A,EXEM FOAM KIT,2019,NDA212279,imaging agent,air/polymer ultrasound contrast foam,validated,GISKIT,carried from validated 2006-2025 set
+XENON XE 129 HYPERPOLARIZED,XENOVIEW,2022,NDA214375,imaging agent,hyperpolarised noble gas,validated,POLAREAN,carried from validated 2006-2025 set
+BIRCH TRITERPENES,FILSUVEZ,2023,NDA215064,botanical mixture,birch bark triterpene extract,validated,CHIESI,carried from validated 2006-2025 set
+PERFLUOROHEXYLOCTANE,MIEBO,2023,NDA216675,non-classical small molecule,"semifluorinated alkane, acts by physical mechanism",validated,BAUSCH AND LOMB INC,carried from validated 2006-2025 set
+PEGULICIANINE,LUMISIGHT,2024,NDA214511,imaging agent,pegylated fluorescent imaging conjugate,validated,LUMICELL,carried from validated 2006-2025 set

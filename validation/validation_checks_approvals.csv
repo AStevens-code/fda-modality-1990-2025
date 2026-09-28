@@ -1,0 +1,14 @@
+check,result,detail
+no duplicate substances,PASS,1246 unique
+all classes in allowed set,PASS,
+year range 1990-2025,PASS,1990-2025
+no unclassified,PASS,
+modern era reproduces saved 2006-2025 set,PASS,767 vs 767 saved
+carried-over classes unchanged,PASS,766/766 identical
+no ADC before 2000,PASS,first ADC 2011
+antibodies present pre-2000,PASS,7 pre-2000
+no BLA substance labelled Small molecule,PASS,0 violations
+"excipient filter applied, with active-ingredient exception",PASS,"benzyl alcohol retained: active ingredient of Ulesfia (2009), not an excipient there"
+landmark approval years correct,PASS,12/12 match
+aggregate table equals substance-level count,PASS,1246 vs 1246
+Other class fully enumerated,PASS,21 members documented

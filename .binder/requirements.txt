@@ -1,0 +1,8 @@
+# Pinned environment for reproducing the figures in notebooks/01_reproduce_figures.ipynb
+# Verified on Python 3.11.15 (darwin).
+# Only the figure-regeneration notebook is covered by these pins; see docs/REPRODUCIBILITY.md
+# for why the classification pipeline (src/pipeline_1990_2025.py) is not one-click reproducible.
+pandas==2.3.3
+numpy==2.4.6
+matplotlib==3.11.1
+# Binder provides jupyterlab itself; listed here only if a pin is ever needed.

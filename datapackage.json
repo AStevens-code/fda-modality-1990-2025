@@ -1,0 +1,437 @@
+{
+  "profile": "tabular-data-package",
+  "name": "fda-modality-1990-2025",
+  "id": "https://doi.org/10.5281/zenodo.23017496",
+  "title": "FDA novel drug approvals and market withdrawals by therapeutic modality, 1990-2025",
+  "version": "1.0.0",
+  "created": "2026-09-15",
+  "description": "Year-by-year modality classification of 1,246 US novel active substance approvals (1990-2025) plus 45 curated US market withdrawals. NOTE: the approvals series is validated against FDA published counts for 2006-2025 and carries lower confidence for 1990-2005; the withdrawals series is curated and its completeness is not benchmarkable. See docs/.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Drugs@FDA",
+      "path": "https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files"
+    },
+    {
+      "title": "ChEMBL",
+      "path": "https://www.ebi.ac.uk/chembl/"
+    },
+    {
+      "title": "FDA CDER Novel Drug Approvals (annual reports)",
+      "path": "https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Dr Adrian P. Stevens",
+      "organization": "Chemaxon, Certara UK Ltd",
+      "role": "author",
+      "path": "https://orcid.org/0009-0004-6011-8585"
+    }
+  ],
+  "resources": [
+    {
+      "name": "approvals_by_year",
+      "path": "data/approvals_by_year.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Novel active substances approved per year, by modality, with confidence tier.",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Calendar year of first US approval."
+          },
+          {
+            "name": "small_molecule",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Small molecule."
+          },
+          {
+            "name": "antibody",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Antibody."
+          },
+          {
+            "name": "adc",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as ADC."
+          },
+          {
+            "name": "peptide",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Peptide."
+          },
+          {
+            "name": "protein_enzyme",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Protein/Enzyme."
+          },
+          {
+            "name": "oligonucleotide",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Oligonucleotide."
+          },
+          {
+            "name": "other",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Other."
+          },
+          {
+            "name": "total",
+            "type": "integer",
+            "description": "Sum across the seven modality columns for that year."
+          },
+          {
+            "name": "confidence",
+            "type": "string",
+            "description": "Evidential tier for the row: validated (2006-2025) or lower (1990-2005). See README."
+          }
+        ]
+      }
+    },
+    {
+      "name": "approvals_share_by_year",
+      "path": "data/approvals_share_by_year.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Same as approvals_by_year, expressed as percentage shares of each year's total.",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Calendar year of first US approval."
+          },
+          {
+            "name": "small_molecule",
+            "type": "number",
+            "description": "Count (or share, in share tables) of novel approvals classified as Small molecule."
+          },
+          {
+            "name": "antibody",
+            "type": "number",
+            "description": "Count (or share, in share tables) of novel approvals classified as Antibody."
+          },
+          {
+            "name": "adc",
+            "type": "number",
+            "description": "Count (or share, in share tables) of novel approvals classified as ADC."
+          },
+          {
+            "name": "peptide",
+            "type": "number",
+            "description": "Count (or share, in share tables) of novel approvals classified as Peptide."
+          },
+          {
+            "name": "protein_enzyme",
+            "type": "number",
+            "description": "Count (or share, in share tables) of novel approvals classified as Protein/Enzyme."
+          },
+          {
+            "name": "oligonucleotide",
+            "type": "number",
+            "description": "Count (or share, in share tables) of novel approvals classified as Oligonucleotide."
+          },
+          {
+            "name": "other",
+            "type": "number",
+            "description": "Count (or share, in share tables) of novel approvals classified as Other."
+          },
+          {
+            "name": "confidence",
+            "type": "string",
+            "description": "Evidential tier for the row: validated (2006-2025) or lower (1990-2005). See README."
+          }
+        ]
+      }
+    },
+    {
+      "name": "approvals_by_era",
+      "path": "data/approvals_by_era.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Novel approvals by modality aggregated into four eras.",
+      "schema": {
+        "fields": [
+          {
+            "name": "era",
+            "type": "string",
+            "description": "Decade grouping: 1990-1999, 2000-2009, 2010-2019, 2020-2025."
+          },
+          {
+            "name": "small_molecule",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Small molecule."
+          },
+          {
+            "name": "antibody",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Antibody."
+          },
+          {
+            "name": "adc",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as ADC."
+          },
+          {
+            "name": "peptide",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Peptide."
+          },
+          {
+            "name": "protein_enzyme",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Protein/Enzyme."
+          },
+          {
+            "name": "oligonucleotide",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Oligonucleotide."
+          },
+          {
+            "name": "other",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Other."
+          }
+        ]
+      }
+    },
+    {
+      "name": "approvals_substance_level",
+      "path": "data/approvals_substance_level.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "One row per novel active substance: identity, approval, modality and how the modality was decided.",
+      "schema": {
+        "fields": [
+          {
+            "name": "moiety",
+            "type": "string",
+            "description": "Normalised active moiety name, uppercase. Salts/hydrates stripped to parent; distinct prodrug esters retained."
+          },
+          {
+            "name": "application_number",
+            "type": "string",
+            "description": "FDA application number, prefix included (e.g. NDA021436, BLA125057)."
+          },
+          {
+            "name": "application_prefix",
+            "type": "string",
+            "description": "NDA or BLA."
+          },
+          {
+            "name": "approval_year",
+            "type": "integer",
+            "description": "Calendar year of first US approval of this moiety."
+          },
+          {
+            "name": "approval_date",
+            "type": "string",
+            "description": "FDA submission status date for the approval action (ISO date)."
+          },
+          {
+            "name": "brands",
+            "type": "string",
+            "description": "Pipe-delimited brand name(s) recorded on the application."
+          },
+          {
+            "name": "sponsor",
+            "type": "string",
+            "description": "Applicant/sponsor as recorded by FDA at the time of the pull."
+          },
+          {
+            "name": "fda_submission_class",
+            "type": "string",
+            "description": "FDA submission class code description for the original submission (e.g. 'Type 1 - New Molecular Entity')."
+          },
+          {
+            "name": "final_class",
+            "type": "string",
+            "description": "Assigned therapeutic modality. One of: Small molecule, Antibody, ADC, Peptide, Protein/Enzyme, Oligonucleotide, Other."
+          },
+          {
+            "name": "final_basis",
+            "type": "string",
+            "description": "How the modality was decided: rule engine, ChEMBL concordance, model vote, or a written per-case adjudication."
+          },
+          {
+            "name": "era_confidence",
+            "type": "string",
+            "description": "Per-row evidential tier, matching the `confidence` column of the aggregate tables."
+          }
+        ]
+      }
+    },
+    {
+      "name": "withdrawals_by_year",
+      "path": "data/withdrawals_by_year.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Curated US market withdrawals per year, by modality.",
+      "schema": {
+        "fields": [
+          {
+            "name": "withdrawal_year",
+            "type": "integer",
+            "description": "Calendar year the product was withdrawn from the US market."
+          },
+          {
+            "name": "small_molecule",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Small molecule."
+          },
+          {
+            "name": "antibody",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Antibody."
+          },
+          {
+            "name": "adc",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as ADC."
+          },
+          {
+            "name": "peptide",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Peptide."
+          },
+          {
+            "name": "protein_enzyme",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Protein/Enzyme."
+          },
+          {
+            "name": "oligonucleotide",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Oligonucleotide."
+          },
+          {
+            "name": "other",
+            "type": "integer",
+            "description": "Count (or share, in share tables) of novel approvals classified as Other."
+          },
+          {
+            "name": "total",
+            "type": "integer",
+            "description": "Sum across the seven modality columns for that year."
+          }
+        ]
+      }
+    },
+    {
+      "name": "withdrawals_substance_level",
+      "path": "data/withdrawals_substance_level.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "One row per withdrawal: drug, year, modality, basis, reason, and cross-checks.",
+      "schema": {
+        "fields": [
+          {
+            "name": "moiety",
+            "type": "string",
+            "description": "Normalised active moiety name, uppercase. Salts/hydrates stripped to parent; distinct prodrug esters retained."
+          },
+          {
+            "name": "withdrawal_year",
+            "type": "integer",
+            "description": "Calendar year the product was withdrawn from the US market."
+          },
+          {
+            "name": "final_class",
+            "type": "string",
+            "description": "Assigned therapeutic modality. One of: Small molecule, Antibody, ADC, Peptide, Protein/Enzyme, Oligonucleotide, Other."
+          },
+          {
+            "name": "withdrawal_basis",
+            "type": "string",
+            "description": "safety, efficacy, or a combination."
+          },
+          {
+            "name": "withdrawal_reason",
+            "type": "string",
+            "description": "Short description of the withdrawal trigger."
+          },
+          {
+            "name": "returned",
+            "type": "boolean",
+            "description": "True if the drug later returned to the US market."
+          },
+          {
+            "name": "return_note",
+            "type": "string",
+            "description": "Circumstances of return, where applicable."
+          },
+          {
+            "name": "scope",
+            "type": "string",
+            "description": "'moiety-wide' or 'formulation' - whether the whole moiety or only one formulation was withdrawn."
+          },
+          {
+            "name": "scope_note",
+            "type": "string",
+            "description": "Which formulation, for formulation-scoped withdrawals."
+          },
+          {
+            "name": "pipeline_class",
+            "type": "string",
+            "description": "Modality independently derived by the approvals pipeline, where the drug survives in Drugs@FDA. Blank if purged."
+          },
+          {
+            "name": "approval_year",
+            "type": "number",
+            "description": "Calendar year of first US approval of this moiety."
+          },
+          {
+            "name": "modality_crosscheck",
+            "type": "string",
+            "description": "Whether the hand-assigned modality agreed with `pipeline_class`."
+          },
+          {
+            "name": "chembl_withdrawal_year",
+            "type": "number",
+            "description": "ChEMBL drug_warning year, where present. First GLOBAL withdrawal, not necessarily US."
+          }
+        ]
+      }
+    },
+    {
+      "name": "withdrawal_rate_by_era",
+      "path": "data/withdrawal_rate_by_era.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Withdrawals as a percentage of approvals, by era.",
+      "schema": {
+        "fields": [
+          {
+            "name": "era",
+            "type": "string",
+            "description": "Decade grouping: 1990-1999, 2000-2009, 2010-2019, 2020-2025."
+          },
+          {
+            "name": "approvals",
+            "type": "integer",
+            "description": "Count of novel approvals in the era."
+          },
+          {
+            "name": "withdrawals",
+            "type": "integer",
+            "description": "Count of withdrawal events in the era."
+          },
+          {
+            "name": "withdrawal_rate_pct",
+            "type": "number",
+            "description": "withdrawals / approvals x 100 for the era. Not a per-drug hazard; see KNOWN_ISSUES."
+          }
+        ]
+      }
+    }
+  ]
+}

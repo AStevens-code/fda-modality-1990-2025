@@ -1,0 +1,6 @@
+source,has_year,us_specific,recall_on_known,verdict
+Drugs@FDA marketing_status,False,,,No date field; 'Discontinued' is commercial not safety (6056 products)
+openFDA enforcement endpoint,True,True,,"Lot-level recalls, not market withdrawals"
+ChEMBL withdrawn_flag,False,False,,"Boolean only, no year"
+ChEMBL drug_warning,True,False,8/25 (32%),Year is first-global; 67% multi-country ambiguous; recent years under-curated 4x
+Curated list (used),True,True,45 entries,Modality 21/21 agreement vs pipeline; completeness not benchmarkable

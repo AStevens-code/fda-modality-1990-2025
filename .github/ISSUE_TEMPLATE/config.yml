@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Methodology questions
+    url: https://github.com/AStevens-code/fda-modality-1990-2025/blob/main/docs/METHODOLOGY_approvals.md
+    about: How the approvals universe and the seven-class scheme were defined.
+  - name: Known limitations
+    url: https://github.com/AStevens-code/fda-modality-1990-2025/blob/main/docs/KNOWN_ISSUES.md
+    about: Read before reporting a discrepancy - it may already be documented.

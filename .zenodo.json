@@ -1,0 +1,24 @@
+{
+  "title": "FDA novel drug approvals and market withdrawals by therapeutic modality, 1990-2025",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Stevens, Adrian P.",
+      "affiliation": "Chemaxon, Certara UK Ltd",
+      "orcid": "0009-0004-6011-8585"
+    }
+  ],
+  "description": "<p>A year-by-year classification of <strong>1,246 novel active substances</strong> approved in the United States between 1990 and 2025 into seven therapeutic modalities (small molecule, antibody, antibody-drug conjugate, peptide, protein/enzyme, oligonucleotide, other), with a companion curated set of <strong>45 US market withdrawals</strong> classified on the same scheme and keyed on year of withdrawal.</p><p>Built from a frozen Drugs@FDA snapshot, cross-referenced against ChEMBL, and reconciled against FDA's published novel drug approval counts for 2006-2025 (r = 0.9992).</p><p><strong>Read before use.</strong> The two series are not of equal evidential quality. Approvals for 2006-2025 are validated against FDA's published counts. Approvals for 1990-2005 carry lower confidence, because the source database purges withdrawn products inconsistently; every row carries a confidence column recording this. The withdrawals series is hand-curated and its completeness is not benchmarkable - no machine-readable registry of US market withdrawals exists, and four candidate sources were tested and rejected.</p><p>Includes the reproduction notebook, the frozen classification pipeline source, full methodology and known-issues documentation, validation tables and the exclusion log.</p>",
+  "keywords": [
+    "drug approvals",
+    "therapeutic modality",
+    "biologics",
+    "FDA",
+    "pharmaceutical innovation",
+    "drug withdrawals"
+  ]
+}

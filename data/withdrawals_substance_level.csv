@@ -1,0 +1,46 @@
+moiety,withdrawal_year,final_class,withdrawal_basis,withdrawal_reason,returned,return_note,scope,scope_note,pipeline_class,approval_year,modality_crosscheck,chembl_withdrawal_year
+ENCAINIDE,1991,Small molecule,safety,proarrhythmia (CAST),False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+TEMAFLOXACIN,1992,Small molecule,safety,hemolytic anemia / 'temafloxacin syndrome',False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+FLOSEQUINAN,1993,Small molecule,safety,increased mortality,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+FENFLURAMINE,1997,Small molecule,safety,valvulopathy (fen-phen),False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+DEXFENFLURAMINE,1997,Small molecule,safety,valvulopathy (fen-phen),False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+TERFENADINE,1998,Small molecule,safety,QT prolongation / torsades,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+MIBEFRADIL,1998,Small molecule,safety,fatal drug interactions,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+BROMFENAC,1998,Small molecule,safety,hepatotoxicity (oral form),False,,formulation,oral withdrawn; ophthalmic remains marketed,,,not in Drugs@FDA (purged or pre-1990),
+ETRETINATE,1998,Small molecule,safety,teratogenicity,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+GREPAFLOXACIN,1999,Small molecule,safety,QT prolongation,False,,moiety-wide,,Small molecule,1997.0,agrees with pipeline,1999.0
+ASTEMIZOLE,1999,Small molecule,safety,QT prolongation,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+TROGLITAZONE,2000,Small molecule,safety,hepatotoxicity,False,,moiety-wide,,Small molecule,1997.0,agrees with pipeline,1997.0
+CISAPRIDE,2000,Small molecule,safety,fatal arrhythmia,False,,moiety-wide,,Small molecule,1993.0,agrees with pipeline,2000.0
+ALOSETRON,2000,Small molecule,safety,ischemic colitis (reintroduced 2002),True,reintroduced 2002 with restricted REMS,moiety-wide,,Small molecule,2000.0,agrees with pipeline,
+CERIVASTATIN,2001,Small molecule,safety,rhabdomyolysis,False,,moiety-wide,,Small molecule,1997.0,agrees with pipeline,2001.0
+RAPACURONIUM,2001,Small molecule,safety,fatal bronchospasm,False,,moiety-wide,,Small molecule,1999.0,agrees with pipeline,2001.0
+TROVAFLOXACIN,2001,Small molecule,safety,hepatotoxicity (US restricted 1999),False,,moiety-wide,,Small molecule,1997.0,agrees with pipeline,1999.0
+LEVOMETHADYL ACETATE,2003,Small molecule,safety,QT prolongation,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+ROFECOXIB,2004,Small molecule,safety,cardiovascular thrombotic events,False,,moiety-wide,,Small molecule,1999.0,agrees with pipeline,2004.0
+HYDROMORPHONE,2005,Small molecule,safety,Palladone ER only; alcohol dose-dumping,False,,formulation,Palladone ER only; other hydromorphone products remain marketed,,,not in Drugs@FDA (purged or pre-1990),
+NATALIZUMAB,2005,Antibody,safety,PML (suspension; reintroduced 2006),True,reintroduced 2006 with TOUCH REMS,moiety-wide,,Antibody,2004.0,agrees with pipeline,
+VALDECOXIB,2005,Small molecule,safety,CV events + serious skin reactions,False,,moiety-wide,,Small molecule,2001.0,agrees with pipeline,2005.0
+PEMOLINE,2005,Small molecule,safety,hepatotoxicity,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+GATIFLOXACIN,2006,Small molecule,safety,dysglycemia (systemic form),False,,formulation,systemic withdrawn; ophthalmic remains marketed,,,not in Drugs@FDA (purged or pre-1990),
+PERGOLIDE,2007,Small molecule,safety,cardiac valvulopathy,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+TEGASEROD,2007,Small molecule,safety,CV ischemic events (reintroduced 2019),True,reintroduced 2019,moiety-wide,,Small molecule,2002.0,agrees with pipeline,2007.0
+APROTININ,2007,Protein/Enzyme,safety,increased mortality in cardiac surgery,False,,moiety-wide,,Protein/Enzyme,1993.0,agrees with pipeline,2007.0
+EFALIZUMAB,2009,Antibody,safety,PML,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+SIBUTRAMINE,2010,Small molecule,safety,CV events (SCOUT),False,,moiety-wide,,Small molecule,1997.0,agrees with pipeline,2010.0
+PROPOXYPHENE,2010,Small molecule,safety,cardiac conduction toxicity,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+GEMTUZUMAB OZOGAMICIN,2010,ADC,efficacy/safety,no benefit + hepatotoxicity (re-approved 2017),True,re-approved 2017 at fractionated dose,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+DROTRECOGIN ALFA,2011,Protein/Enzyme,efficacy,PROWESS-SHOCK failed,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+PONATINIB,2013,Small molecule,safety,vascular occlusion (suspension; returned 2013),True,returned 2013 with narrowed indication,moiety-wide,,Small molecule,2012.0,agrees with pipeline,
+PEGINESATIDE,2013,Peptide,safety,fatal anaphylaxis,False,,moiety-wide,,Peptide,2012.0,agrees with pipeline,2019.0
+DACLIZUMAB,2018,Antibody,safety,autoimmune hepatitis / encephalitis,False,,moiety-wide,,Antibody,2016.0,agrees with pipeline,2018.0
+OLARATUMAB,2019,Antibody,efficacy,ANNOUNCE confirmatory failure,False,,moiety-wide,,Antibody,2016.0,agrees with pipeline,
+MIPOMERSEN,2019,Oligonucleotide,safety/commercial,hepatic steatosis,False,,moiety-wide,,Oligonucleotide,2013.0,agrees with pipeline,
+LORCASERIN,2020,Small molecule,safety,malignancy signal,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+RANITIDINE,2020,Small molecule,safety,NDMA contamination,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+UMBRALISIB,2022,Small molecule,efficacy/safety,survival imbalance (UNITY-CLL),False,,moiety-wide,,Small molecule,2021.0,agrees with pipeline,2022.0
+BELANTAMAB MAFODOTIN,2022,ADC,efficacy,DREAMM-3 confirmatory failure,True,re-approved 2025,moiety-wide,,ADC,2025.0,agrees with pipeline,2024.0
+HYDROXYPROGESTERONE CAPROATE,2023,Small molecule,efficacy,PROLONG failed; Makena withdrawn,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+MELPHALAN FLUFENAMIDE,2024,Small molecule,safety,OCEAN survival detriment,False,,moiety-wide,,,,not in Drugs@FDA (purged or pre-1990),
+VOXELOTOR,2024,Small molecule,safety,vaso-occlusive crises / deaths,False,,moiety-wide,,Small molecule,2019.0,agrees with pipeline,2024.0
+SODIUM PHENYLBUTYRATE,2024,Small molecule,efficacy,PHOENIX failed (Relyvrio),False,,formulation,Relyvrio combination withdrawn; Buphenyl remains marketed,,,not in Drugs@FDA (purged or pre-1990),

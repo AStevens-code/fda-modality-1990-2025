@@ -1,0 +1,1247 @@
+moiety,application_number,application_prefix,approval_year,approval_date,brands,sponsor,fda_submission_class,final_class,final_basis,era_confidence
+ALTRETAMINE,NDA019926,NDA,1990,1990-12-26,HEXALEN,EISAI INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BEPRIDIL,NDA019002,NDA,1990,1990-12-28,VASCOR,JOHNSON AND JOHNSON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+COLFOSCERIL,NDA020044,NDA,1990,1990-08-02,EXOSURF NEONATAL,GLAXOSMITHKLINE,Type 1 - New Molecular Entity and Type 4 - New Combination,Other,rule+model (2 of 3),lower
+DAPIPRAZOLE,NDA019849,NDA,1990,1990-12-31,DAPIPRAZOLE HYDROCHLORIDE,FERA PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DOXAZOSIN,NDA019668,NDA,1990,1990-11-02,CARDURA,VIATRIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EFLORNITHINE,NDA019879,NDA,1990,1990-11-28,ORNIDYL,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ESTAZOLAM,NDA019080,NDA,1990,1990-12-26,PROSOM,ABBOTT,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FLUCONAZOLE,NDA019949,NDA,1990,1990-01-29,DIFLUCAN,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FLUTICASONE,NDA019957,NDA,1990,1990-12-14,CUTIVATE,FOUGERA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+HALOBETASOL,NDA019968,NDA,1990,1990-12-17,ULTRAVATE,SUN PHARM INDS INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IDARUBICIN,NDA050661,NDA,1990,1990-09-27,IDAMYCIN,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ISRADIPINE,NDA019546,NDA,1990,1990-12-20,DYNACIRC,SMITHKLINE BEECHAM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LEVAMISOLE,NDA020035,NDA,1990,1990-06-18,ERGAMISOL,JANSSEN PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MORICIZINE,NDA019753,NDA,1990,1990-06-19,ETHMOZINE,SHIRE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NAFARELIN,NDA019886,NDA,1990,1990-02-13,SYNAREL,PFIZER,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+OFLOXACIN,NDA019735,NDA,1990,1990-12-28,FLOXIN,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OLSALAZINE,NDA019715,NDA,1990,1990-07-31,DIPENTUM,MYLAN SPCLT VIATRIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PEGADEMASE BOVINE,BLA019818,BLA,1990,1990-03-21,ADAGEN,LEADIANT BIOSCI INC,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+PIPECURONIUM,NDA019638,NDA,1990,1990-06-26,ARDUAN,ORGANON USA INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SERMORELIN,NDA019863,NDA,1990,1990-12-28,GEREF,EMD SERONO,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+TECHNETIUM TC 99M MERTIATIDE KIT,NDA019882,NDA,1990,1990-06-15,TECHNESCAN MAG3,CURIUM,Type 1 - New Molecular Entity,Peptide,model tiebreak,lower
+TECHNETIUM TC 99M SESTAMIBI KIT,NDA019785,NDA,1990,1990-12-21,CARDIOLITE|MIRALUMA,SHINE,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+TECHNETIUM TC 99M TEBOROXIME KIT,NDA019928,NDA,1990,1990-12-19,CARDIOTEC,BRACCO,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+AZITHROMYCIN,NDA050670,NDA,1991,1991-11-01,ZITHROMAX,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BENAZEPRIL,NDA019851,NDA,1991,1991-06-25,LOTENSIN,VALIDUS PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BERACTANT,BLA020032,BLA,1991,1991-07-01,SURVANTA,ABBVIE,Type 1 - New Molecular Entity,Other,rule only (no ChEMBL match),lower
+CEFPROZIL,NDA050664,NDA,1991,1991-12-23,CEFZIL,CORDEN PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CLARITHROMYCIN,NDA050662,NDA,1991,1991-10-31,BIAXIN,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DIDANOSINE,NDA020154,NDA,1991,1991-10-09,VIDEX,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DOXACURIUM,NDA019946,NDA,1991,1991-03-07,NUROMAX,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ENOXACIN,NDA019616,NDA,1991,1991-12-31,PENETREX,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ETODOLAC,NDA018922,NDA,1991,1991-01-31,LODINE,WYETH PHARMS INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FELODIPINE,NDA019834,NDA,1991,1991-07-25,PLENDIL,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FILGRASTIM,BLA103353,BLA,1991,1991-02-20,NEUPOGEN,AMGEN,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+FLUDARABINE,NDA020038,NDA,1991,1991-04-18,FLUDARA,GENZYME CORP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FLUMAZENIL,NDA020073,NDA,1991,1991-12-20,ROMAZICON,HOFFMANN LA ROCHE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FOSCARNET,NDA020068,NDA,1991,1991-09-27,FOSCAVIR,CLINIGEN HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FOSINOPRIL,NDA019915,NDA,1991,1991-05-16,MONOPRIL,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GALLIUM,NDA019961,NDA,1991,1991-01-17,GANITE,CHAPTER 7 TRUSTEE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+HISTRELIN,NDA019836,NDA,1991,1991-12-24,SUPPRELIN,SHIRE,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+ISOSORBIDE MONONITRATE,NDA019091,NDA,1991,1991-12-30,ISMO,PROMIUS PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LORACARBEF,NDA050667,NDA,1991,1991-12-31,LORABID,KING PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NABUMETONE,NDA019583,NDA,1991,1991-12-24,RELAFEN,SMITHKLINE BEECHAM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ONABOTULINUMTOXINA,BLA103000,BLA,1991,1991-12-09,BOTOX|BOTOX COSMETIC,ALLERGAN,Type 1 - New Molecular Entity,Protein/Enzyme,rule only (no ChEMBL match),lower
+ONDANSETRON,NDA020007,NDA,1991,1991-01-04,ZOFRAN|ZOFRAN PRESERVATIVE FREE,SANDOZ,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PAMIDRONATE,NDA020036,NDA,1991,1991-10-31,AREDIA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PENTOSTATIN,NDA020122,NDA,1991,1991-10-11,NIPENT,HOSPIRA INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PRAVASTATIN,NDA019898,NDA,1991,1991-10-31,PRAVACHOL,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+QUINAPRIL,NDA019885,NDA,1991,1991-11-19,ACCUPRIL,PFIZER PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RAMIPRIL,NDA019901,NDA,1991,1991-01-28,ALTACE,KING PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SARGRAMOSTIM,BLA103362,BLA,1991,1991-03-05,LEUKINE,BERLEX LABS,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+SERTRALINE,NDA019839,NDA,1991,1991-12-30,ZOLOFT,VIATRIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SIMVASTATIN,NDA019766,NDA,1991,1991-12-23,ZOCOR,ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SUCCIMER,NDA019998,NDA,1991,1991-01-30,CHEMET,RECORDATI RARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TICLOPIDINE,NDA019979,NDA,1991,1991-10-31,TICLID,ROCHE PALO,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ALDESLEUKIN,BLA103293,BLA,1992,1992-05-05,PROLEUKIN,CHIRON,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+AMLODIPINE,NDA019787,NDA,1992,1992-07-31,NORVASC,VIATRIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ATOVAQUONE,NDA020259,NDA,1992,1992-11-25,MEPRON,GLAXOSMITHKLINE LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BISOPROLOL,NDA019982,NDA,1992,1992-07-31,ZEBETA,TEVA BRANDED PHARM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CEFPODOXIME PROXETIL,NDA050674,NDA,1992,1992-08-07,VANTIN,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DESFLURANE,NDA020118,NDA,1992,1992-09-18,SUPRANE,BAXTER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DESOGESTREL,NDA020071,NDA,1992,1992-12-10,DESOGEN,ORGANON USA INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+FINASTERIDE,NDA020180,NDA,1992,1992-06-19,PROSCAR,ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GADOTERIDOL,NDA020131,NDA,1992,1992-11-16,PROHANCE,BRACCO,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+HALOFANTRINE,NDA020250,NDA,1992,1992-07-24,HALFAN,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+INDIUM IN 111,NDA019862,NDA,1992,1992-12-29,INDICLOR,GE HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+ITRACONAZOLE,NDA020083,NDA,1992,1992-09-11,SPORANOX,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LOMEFLOXACIN,NDA020013,NDA,1992,1992-02-21,MAXAQUIN,PHARMACIA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MASOPROCOL,NDA019940,NDA,1992,1992-09-04,ACTINEX,UNIV AZ CANCER CTR,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MIVACURIUM,NDA020098,NDA,1992,1992-01-22,MIVACRON|MIVACRON IN DEXTROSE 5% IN PLASTIC CONTAINER,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NEDOCROMIL,NDA019660,NDA,1992,1992-12-30,TILADE,KING PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OXAPROZIN,NDA018841,NDA,1992,1992-10-29,DAYPRO,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PACLITAXEL,NDA020262,NDA,1992,1992-12-29,TAXOL,HQ SPCLT PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PAROXETINE,NDA020031,NDA,1992,1992-12-29,PAXIL,APOTEX,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RIFABUTIN,NDA050689,NDA,1992,1992-12-23,MYCOBUTIN,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SOTALOL,NDA019865,NDA,1992,1992-10-30,BETAPACE,LEGACY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SUMATRIPTAN,NDA020080,NDA,1992,1992-12-28,IMITREX|IMITREX STATDOSE,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TENIPOSIDE,NDA020119,NDA,1992,1992-07-14,VUMON,HQ SPECLT PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TERBINAFINE,NDA020192,NDA,1992,1992-12-30,LAMISIL,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZALCITABINE,NDA020199,NDA,1992,1992-06-19,HIVID,ROCHE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZOLPIDEM,NDA019908,NDA,1992,1992-12-16,AMBIEN,COSETTE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+APROTININ,BLA020304,BLA,1993,1993-12-29,TRASYLOL,BAYER HLTHCARE,Type 1 - New Molecular Entity,Protein/Enzyme,rule only (no ChEMBL match),lower
+CALCIPOTRIENE,NDA020273,NDA,1993,1993-12-29,DOVONEX,LEO PHARMA AS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CISAPRIDE,NDA020210,NDA,1993,1993-07-29,PROPULSID,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CLADRIBINE,NDA020229,NDA,1993,1993-02-26,LEUSTATIN,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DORNASE ALFA,BLA103532,BLA,1993,1993-12-30,PULMOZYME,GENENTECH,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+ENOXAPARIN,NDA020164,NDA,1993,1993-03-29,LOVENOX|LOVENOX (PRESERVATIVE FREE),SANOFI AVENTIS US,Type 1 - New Molecular Entity,Other,hand-adjudicated (glycan),lower
+FELBAMATE,NDA020189,NDA,1993,1993-07-29,FELBATOL,MYLAN SPECIALITY LP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FENOFIBRATE,NDA019304,NDA,1993,1993-12-31,LIPIDIL|TRICOR (MICRONIZED),ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FLUVASTATIN,NDA020261,NDA,1993,1993-12-31,LESCOL,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GABAPENTIN,NDA020235,NDA,1993,1993-12-30,NEURONTIN,VIATRIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GADODIAMIDE,NDA020123,NDA,1993,1993-01-08,OMNISCAN,GE HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GRANISETRON,NDA020239,NDA,1993,1993-12-29,KYTRIL,ROCHE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+INTERFERON BETA 1B,BLA103471,BLA,1993,1993-07-23,BETASERON,BAYER HEALTHCARE PHARMS,Type 1 - New Molecular Entity,Protein/Enzyme,rule only (no ChEMBL match),lower
+LEVOCABASTINE,NDA020219,NDA,1993,1993-11-10,LIVOSTIN,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LEVOMETHADYL,NDA020315,NDA,1993,1993-07-09,ORLAAM,ROXANE,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+LODOXAMIDE,NDA020191,NDA,1993,1993-09-23,ALOMIDE,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LORATADINE,NDA019658,NDA,1993,1993-04-12,CLARITIN|CLARITIN HIVES RELIEF,BAYER HEALTHCARE LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PERFLUBRON,NDA020091,NDA,1993,1993-08-13,IMAGENT,ALLIANCE PHARM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PERINDOPRIL ERBUMINE,NDA020184,NDA,1993,1993-12-30,ACEON,SYMPLMED PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RIMANTADINE,NDA019649,NDA,1993,1993-09-17,FLUMADINE,SUN PHARM INDS INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RISPERIDONE,NDA020272,NDA,1993,1993-12-29,RISPERDAL,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+STRONTIUM SR 89,NDA020134,NDA,1993,1993-06-18,METASTRON,Q BIOMED,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+TACRINE,NDA020070,NDA,1993,1993-09-09,COGNEX,SHIONOGI INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TAZOBACTAM,NDA050684,NDA,1993,1993-10-22,ZOSYN,WYETH PHARMS,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+TORSEMIDE,NDA020136,NDA,1993,1993-08-23,DEMADEX,PHARMOBEDIENT,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TRIMETREXATE GLUCURONATE,NDA020326,NDA,1993,1993-12-17,NEUTREXIN,MEDIMMUNE ONCOLOGY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+VENLAFAXINE,NDA020151,NDA,1993,1993-12-28,EFFEXOR,WYETH PHARMS INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ABCIXIMAB,BLA103575,BLA,1994,1994-12-22,REOPRO,CENTOCOR INC,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+ACRIVASTINE,NDA019806,NDA,1994,1994-03-25,SEMPREX-D,ENDO OPERATIONS,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+BUDESONIDE,NDA020233,NDA,1994,1994-02-14,RHINOCORT,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CYSTEAMINE,NDA020392,NDA,1994,1994-08-15,CYSTAGON,MYLAN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DALTEPARIN,NDA020287,NDA,1994,1994-12-22,FRAGMIN,PFIZER,Type 1 - New Molecular Entity,Other,hand-adjudicated (glycan),lower
+DORZOLAMIDE,NDA020408,NDA,1994,1994-12-09,TRUSOPT,MSD SUB MERCK,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FAMCICLOVIR,NDA020363,NDA,1994,1994-06-29,FAMVIR,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FLUDEOXYGLUCOSE F 18,NDA020306,NDA,1994,1994-08-19,FLUDEOXYGLUCOSE F18,DOWNSTATE CLINCL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FLUVOXAMINE,NDA020243,NDA,1994,1994-12-05,LUVOX,SOLVAY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IMIGLUCERASE,BLA020367,BLA,1994,1994-05-23,CEREZYME,GENZYME,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+INDIUM IN 111 PENTETREOTIDE KIT,NDA020314,NDA,1994,1994-06-02,OCTREOSCAN,CURIUM,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+IOBENGUANE I 131,NDA020084,NDA,1994,1994-03-25,IOBENGUANE SULFATE I 131,PHARMALUCENCE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LAMOTRIGINE,NDA020241,NDA,1994,1994-12-27,LAMICTAL,GLAXOSMITHKLINE LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NEFAZODONE,NDA020152,NDA,1994,1994-12-22,SERZONE,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RIMEXOLONE,NDA020474,NDA,1994,1994-12-30,VEXOL,HARROW EYE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ROCURONIUM,NDA020214,NDA,1994,1994-03-17,ZEMURON,ORGANON USA INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SALMETEROL,NDA020236,NDA,1994,1994-02-04,SEREVENT,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+STAVUDINE,NDA020412,NDA,1994,1994-06-24,ZERIT,BRISTOL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TACROLIMUS,NDA050708,NDA,1994,1994-04-08,PROGRAF,ASTELLAS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TECHNETIUM TC 99M BICISATE KIT,NDA020256,NDA,1994,1994-11-23,NEUROLITE,SHINE,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+VINORELBINE,NDA020388,NDA,1994,1994-12-23,NAVELBINE,PIERRE FABRE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ACARBOSE,NDA020482,NDA,1995,1995-09-06,PRECOSE,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,hand-adjudicated (glycan),lower
+ALENDRONATE,NDA020560,NDA,1995,1995-09-29,FOSAMAX,ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+AMIFOSTINE,NDA020221,NDA,1995,1995-12-08,ETHYOL,LEGACY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ANASTROZOLE,NDA020541,NDA,1995,1995-12-27,ARIMIDEX,ANI PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+AZELAIC ACID,NDA020428,NDA,1995,1995-09-13,AZELEX,ALMIRALL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BICALUTAMIDE,NDA020498,NDA,1995,1995-10-04,CASODEX,ANI PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CARVEDILOL,NDA020297,NDA,1995,1995-09-14,COREG,WAYLIS THERAP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CEFTIBUTEN,NDA050685,NDA,1995,1995-12-20,CEDAX,BURKE THERAP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CETIRIZINE,NDA019835,NDA,1995,1995-12-08,ZYRTEC ALLERGY|ZYRTEC HIVES,KENVUE BRANDS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DEXRAZOXANE,NDA020212,NDA,1995,1995-05-26,ZINECARD,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DIRITHROMYCIN,NDA050678,NDA,1995,1995-06-19,DYNABAC,LILLY RES LABS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EPOPROSTENOL,NDA020444,NDA,1995,1995-09-20,FLOLAN,GLAXOSMITHKLINE LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GLIMEPIRIDE,NDA020496,NDA,1995,1995-11-30,AMARYL,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IBUTILIDE,NDA020491,NDA,1995,1995-12-28,CORVERT,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IOPROMIDE,NDA020220,NDA,1995,1995-05-10,ULTRAVIST 150|ULTRAVIST 240|ULTRAVIST 300|ULTRAVIST 300 IN PLASTIC CONTAINER|ULTRAVIST 370,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IOXILAN,NDA020316,NDA,1995,1995-12-21,OXILAN-300|OXILAN-350,GUERBET,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LAMIVUDINE,NDA020564,NDA,1995,1995-11-17,EPIVIR,VIIV HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LANSOPRAZOLE,NDA020406,NDA,1995,1995-05-10,PREVACID,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LOSARTAN,NDA020386,NDA,1995,1995-04-14,COZAAR,ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+METFORMIN,NDA020357,NDA,1995,1995-03-03,GLUCOPHAGE,EMD SERONO INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MOEXIPRIL,NDA020312,NDA,1995,1995-04-19,UNIVASC,UCB INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MYCOPHENOLATE MOFETIL,NDA050722,NDA,1995,1995-05-03,CELLCEPT,ROCHE PALO,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NALMEFENE,NDA020459,NDA,1995,1995-04-17,REVEX,HIKMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NISOLDIPINE,NDA020356,NDA,1995,1995-02-02,SULAR,AZURITY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PORFIMER,NDA020451,NDA,1995,1995-12-27,PHOTOFRIN,PINNACLE BIOLGS,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+RILUZOLE,NDA020599,NDA,1995,1995-12-12,RILUTEK,AZURITY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SAQUINAVIR,NDA020628,NDA,1995,1995-12-06,INVIRASE,HOFFMANN LA ROCHE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SEVOFLURANE,NDA020478,NDA,1995,1995-06-07,ULTANE,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TRAMADOL,NDA020281,NDA,1995,1995-03-03,ULTRAM,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ADAPALENE,NDA020338,NDA,1996,1996-05-31,DIFFERIN,GALDERMA LABS LP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ALBENDAZOLE,NDA020666,NDA,1996,1996-06-11,ALBENZA,IMPAX LABS INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+AMLEXANOX,NDA020511,NDA,1996,1996-12-17,APHTHASOL,ULURU,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ATORVASTATIN,NDA020702,NDA,1996,1996-12-17,LIPITOR,UPJOHN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+AZELASTINE,NDA020114,NDA,1996,1996-11-01,ASTELIN,RISING,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BENTOQUATAM,NDA020532,NDA,1996,1996-08-26,IVY BLOCK,STAND HOMEOPATH,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+BETAINE,NDA020576,NDA,1996,1996-10-25,CYSTADANE,RECORDATI RARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BRIMONIDINE,NDA020613,NDA,1996,1996-09-06,ALPHAGAN,ALLERGAN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BUTENAFINE,NDA020524,NDA,1996,1996-10-18,MENTAX,PHARMOBEDIENT,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CABERGOLINE,NDA020664,NDA,1996,1996-12-23,DOSTINEX,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CAPROMAB PENDETIDE,BLA103608,BLA,1996,1996-10-28,PROSTASCINT,CYTOGEN,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+CEFEPIME,NDA050679,NDA,1996,1996-01-18,MAXIPIME,HOSPIRA INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CIDOFOVIR,NDA020638,NDA,1996,1996-06-26,VISTIDE,GILEAD SCIENCES INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CORTICORELIN OVINE TRIFLUTATE,BLA020162,BLA,1996,1996-05-23,ACTHREL,FERRING,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+DANAPAROID,NDA020430,NDA,1996,1996-12-24,ORGARAN,ASPEN GLOBAL INC,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+DOCETAXEL,NDA020449,NDA,1996,1996-05-14,TAXOTERE,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DONEPEZIL,NDA020690,NDA,1996,1996-11-25,ARICEPT,EISAI INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FERUMOXIDES,NDA020416,NDA,1996,1996-08-30,FERIDEX I.V.,AMAG PHARMS INC,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+FERUMOXSIL,NDA020410,NDA,1996,1996-12-06,GASTROMARK,AMAG PHARMS INC,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+FEXOFENADINE,NDA020625,NDA,1996,1996-07-25,ALLEGRA,CHATTEM SANOFI,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FOSFOMYCIN,NDA050717,NDA,1996,1996-12-19,MONUROL,ZAMBON SPA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FOSPHENYTOIN,NDA020450,NDA,1996,1996-08-05,CEREBYX,PARKE DAVIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GEMCITABINE,NDA020509,NDA,1996,1996-05-15,GEMZAR,LILLY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GLATIRAMER,NDA020622,NDA,1996,1996-12-20,COPAXONE,TEVA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+INDINAVIR,NDA020685,NDA,1996,1996-03-13,CRIXIVAN,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+INSULIN LISPRO,BLA020563,BLA,1996,1996-06-14,HUMALOG|HUMALOG KWIKPEN|HUMALOG PEN|HUMALOG TEMPO PEN,LILLY,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+INTERFERON BETA 1A,BLA103628,BLA,1996,1996-05-17,AVONEX,BIOGEN,Type 1 - New Molecular Entity,Protein/Enzyme,rule only (no ChEMBL match),lower
+IODIXANOL,NDA020351,NDA,1996,1996-03-22,VISIPAQUE 270|VISIPAQUE 320,GE HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+IRINOTECAN,NDA020571,NDA,1996,1996-06-14,CAMPTOSAR,PFIZER INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IVERMECTIN,NDA050742,NDA,1996,1996-11-22,STROMECTOL,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+LATANOPROST,NDA020597,NDA,1996,1996-06-05,XALATAN,UPJOHN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MEROPENEM,NDA050706,NDA,1996,1996-06-21,MERREM IV,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MIDODRINE,NDA019815,NDA,1996,1996-09-06,PROAMATINE,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MIGLITOL,NDA020682,NDA,1996,1996-12-18,GLYSET,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MIRTAZAPINE,NDA020415,NDA,1996,1996-06-14,REMERON,ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NEVIRAPINE,NDA020636,NDA,1996,1996-06-21,VIRAMUNE,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NILUTAMIDE,NDA020169,NDA,1996,1996-09-19,NILANDRON,ADVANZ PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OLANZAPINE,NDA020592,NDA,1996,1996-09-30,ZYPREXA,CHEPLAPHARM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OLOPATADINE,NDA020688,NDA,1996,1996-12-18,PATADAY TWICE DAILY RELIEF,ALCON LABS INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PENCICLOVIR,NDA020629,NDA,1996,1996-09-24,DENAVIR,MYLAN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PENTOSAN POLYSULFATE,NDA020193,NDA,1996,1996-09-26,ELMIRON,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+PHENYLBUTYRATE,NDA020573,NDA,1996,1996-04-30,BUPHENYL,HORIZON THERAP US,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+QUINESTROL,NDA016768,NDA,1996,1996-04-26,ESTROVIS,PARKE DAVIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+REMIFENTANIL,NDA020630,NDA,1996,1996-07-12,ULTIVA,MYLAN INSTITUTIONAL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RITONAVIR,NDA020659,NDA,1996,1996-03-01,NORVIR,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ROPIVACAINE,NDA020533,NDA,1996,1996-09-24,NAROPIN,FRESENIUS KABI USA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SPARFLOXACIN,NDA020677,NDA,1996,1996-12-19,ZAGAM,MYLAN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TECHNETIUM TC 99M TETROFOSMIN KIT,NDA020372,NDA,1996,1996-02-09,MYOVIEW|MYOVIEW 30ML,MEDI-PHYSICS,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+TIZANIDINE,NDA020397,NDA,1996,1996-11-27,ZANAFLEX,LEGACY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TOPIRAMATE,NDA020505,NDA,1996,1996-12-24,TOPAMAX,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TOPOTECAN,NDA020671,NDA,1996,1996-05-28,HYCAMTIN,SANDOZ,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TRANDOLAPRIL,NDA020528,NDA,1996,1996-04-26,MAVIK,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+UREA C 13,NDA020586,NDA,1996,1996-09-17,BREATHTEK UBT FOR H-PYLORI|MERETEK UBT KIT (W/ PRANACTIN),OTSUKA AMERICA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+VALSARTAN,NDA020665,NDA,1996,1996-12-23,DIOVAN,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZAFIRLUKAST,NDA020547,NDA,1996,1996-09-26,ACCOLATE,STRIDES PHARMA INTL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZILEUTON,NDA020471,NDA,1996,1996-12-09,ZYFLO,CHIESI,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ALATROFLOXACIN,NDA020760,NDA,1997,1997-12-18,TROVAN PRESERVATIVE FREE,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ANAGRELIDE,NDA020333,NDA,1997,1997-03-14,AGRYLIN,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ARBUTAMINE,NDA020420,NDA,1997,1997-09-12,GENESA,GENSIA AUTOMEDICS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BECAPLERMIN,BLA103691,BLA,1997,1997-12-16,REGRANEX,SMITH AND NEPHEW,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+C 14,NDA020617,NDA,1997,1997-05-09,PYTEST|PYTEST KIT,AVENT,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+CEFDINIR,NDA050739,NDA,1997,1997-12-04,OMNICEF,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CERIVASTATIN,NDA020740,NDA,1997,1997-06-26,BAYCOL,BAYER PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CLOPIDOGREL BISULFATE,NDA020839,NDA,1997,1997-11-17,PLAVIX,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DELAVIRDINE,NDA020705,NDA,1997,1997-04-04,RESCRIPTOR,VIIV HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DOLASETRON,NDA020623,NDA,1997,1997-09-11,ANZEMET,VALIDUS PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EMEDASTINE DIFUMARATE,NDA020706,NDA,1997,1997-12-29,EMADINE,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EPROSARTAN,NDA020738,NDA,1997,1997-12-22,TEVETEN,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FENOLDOPAM,NDA019922,NDA,1997,1997-09-23,CORLOPAM,HOSPIRA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FOMEPIZOLE,NDA020696,NDA,1997,1997-12-04,ANTIZOL,PAR PHARM INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GREPAFLOXACIN,NDA020695,NDA,1997,1997-11-06,RAXAR,OTSUKA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IMIQUIMOD,NDA020723,NDA,1997,1997-02-27,ALDARA,BAUSCH,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IRBESARTAN,NDA020757,NDA,1997,1997-09-30,AVAPRO,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LETROZOLE,NDA020726,NDA,1997,1997-07-25,FEMARA,NOVARTIS PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MANGAFODIPIR TRISODIUM,NDA020652,NDA,1997,1997-11-26,TESLASCAN,IC TARGETS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NELFINAVIR,NDA020779,NDA,1997,1997-03-14,VIRACEPT,AGOURON PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PHENYLBUTAZONE,NDA008319,NDA,1997,1997-06-25,BUTAZOLIDIN,NOVARTIS,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+PRAMIPEXOLE,NDA020667,NDA,1997,1997-07-01,MIRAPEX,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+QUETIAPINE,NDA020639,NDA,1997,1997-09-26,SEROQUEL,CHEPLAPHARM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RALOXIFENE,NDA020815,NDA,1997,1997-12-09,EVISTA,LILLY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+REPAGLINIDE,NDA020741,NDA,1997,1997-12-22,PRANDIN,GEMINI LABS LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RITUXIMAB,BLA103705,BLA,1997,1997-11-26,RITUXAN,GENENTECH,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+ROPINIROLE,NDA020658,NDA,1997,1997-09-19,REQUIP,GLAXOSMITHKLINE LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SAMARIUM SM 153 LEXIDRONAM PENTASODIUM,NDA020570,NDA,1997,1997-03-28,QUADRAMET,LANTHEUS MEDICAL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SIBUTRAMINE,NDA020632,NDA,1997,1997-11-22,MERIDIA,ABBOTT,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TALC,NDA020587,NDA,1997,1997-12-24,SCLEROSOL,SCIARRA LABS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TAMSULOSIN,NDA020579,NDA,1997,1997-04-15,FLOMAX,SANOFI,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TAZAROTENE,NDA020600,NDA,1997,1997-06-13,TAZORAC,ALMIRALL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TIAGABINE,NDA020646,NDA,1997,1997-09-30,GABITRIL,CEPHALON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TILUDRONATE,NDA020707,NDA,1997,1997-03-07,SKELID,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TOREMIFENE,NDA020497,NDA,1997,1997-05-29,FARESTON,KYOWA KIRIN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TROGLITAZONE,NDA020720,NDA,1997,1997-01-29,REZULIN,PFIZER PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TROVAFLOXACIN,NDA020759,NDA,1997,1997-12-18,TROVAN,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZOLMITRIPTAN,NDA020768,NDA,1997,1997-11-25,ZOMIG,IPR,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ABACAVIR,NDA020977,NDA,1998,1998-12-17,ZIAGEN,VIIV HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BASILIXIMAB,BLA103764,BLA,1998,1998-05-12,SIMULECT,NOVARTIS,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+BRINZOLAMIDE,NDA020816,NDA,1998,1998-04-01,AZOPT,SANDOZ,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CALFACTANT,BLA020521,BLA,1998,1998-07-01,INFASURF PRESERVATIVE FREE,ONY,Type 1 - New Molecular Entity,Other,rule only (no ChEMBL match),lower
+CANDESARTAN CILEXETIL,NDA020838,NDA,1998,1998-06-04,ATACAND,ANI PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CAPECITABINE,NDA020896,NDA,1998,1998-04-30,XELODA,CHEPLAPHARM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CELECOXIB,NDA020998,NDA,1998,1998-12-31,CELEBREX,UPJOHN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CITALOPRAM,NDA020822,NDA,1998,1998-07-17,CELEXA,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EFAVIRENZ,NDA020972,NDA,1998,1998-09-17,SUSTIVA,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EPTIFIBATIDE,NDA020718,NDA,1998,1998-05-18,INTEGRILIN,MSD SUB MERCK,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+ETANERCEPT,BLA103795,BLA,1998,1998-11-02,ENBREL,IMMUNEX,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+FOMIVIRSEN,NDA020961,NDA,1998,1998-08-26,VITRAVENE PRESERVATIVE FREE,NOVARTIS,Type 1 - New Molecular Entity,Oligonucleotide,rule+chembl concordant,lower
+INFLIXIMAB,BLA103772,BLA,1998,1998-08-24,REMICADE,CENTOCOR INC,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+LEFLUNOMIDE,NDA020905,NDA,1998,1998-09-10,ARAVA,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LOTEPREDNOL,NDA020583,NDA,1998,1998-03-09,LOTEMAX,BAUSCH AND LOMB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MODAFINIL,NDA020717,NDA,1998,1998-12-24,PROVIGIL,NUVO PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MONTELUKAST,NDA020829,NDA,1998,1998-02-20,SINGULAIR,ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NARATRIPTAN,NDA020763,NDA,1998,1998-02-10,AMERGE,GLAXOSMITHKLINE LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PALIVIZUMAB,BLA103770,BLA,1998,1998-06-19,SYNAGIS,SWEDISH ORPHAN,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+PARICALCITOL,NDA020819,NDA,1998,1998-04-17,ZEMPLAR,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RETEPLASE,BLA103786,BLA,1998,1998-05-06,RETAVASE,EKR THERAP,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+RIFAPENTINE,NDA021024,NDA,1998,1998-06-22,PRIFTIN,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RISEDRONATE,NDA020835,NDA,1998,1998-03-27,ACTONEL,APIL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RIZATRIPTAN,NDA020864,NDA,1998,1998-06-29,MAXALT,ORGANON LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SACROSIDASE,BLA020772,BLA,1998,1998-04-09,SUCRAID,QOL MEDCL,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+SEVELAMER,NDA020926,NDA,1998,1998-10-30,RENAGEL,GENZYME,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SILDENAFIL,NDA020895,NDA,1998,1998-03-27,VIAGRA,VIATRIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TECHNETIUM TC 99M APCITIDE,NDA020887,NDA,1998,1998-09-14,ACUTECT,CIS BIO INTL SA,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+TELMISARTAN,NDA020850,NDA,1998,1998-11-10,MICARDIS,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+THALIDOMIDE,NDA020785,NDA,1998,1998-07-16,THALOMID,BRISTOL-MYERS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+THYROTROPIN ALFA,BLA020898,BLA,1998,1998-11-30,THYROGEN,GENZYME,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+TIROFIBAN,NDA020912,NDA,1998,1998-05-14,AGGRASTAT,MEDICURE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TOLCAPONE,NDA020697,NDA,1998,1998-01-29,TASMAR,BAUSCH,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TOLTERODINE,NDA020771,NDA,1998,1998-03-25,DETROL,UPJOHN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TRASTUZUMAB,BLA103792,BLA,1998,1998-09-25,HERCEPTIN,GENENTECH,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+VALRUBICIN,NDA020892,NDA,1998,1998-09-25,VALSTAR PRESERVATIVE FREE,ENDO OPERATIONS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ALITRETINOIN,NDA020886,NDA,1999,1999-02-02,PANRETIN,ADVANZ PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+AMINOLEVULINIC ACID,NDA020965,NDA,1999,1999-12-03,LEVULAN,SUN PHARM INDS INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+AMPRENAVIR,NDA021007,NDA,1999,1999-04-15,AGENERASE,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BEXAROTENE,NDA021055,NDA,1999,1999-12-29,TARGRETIN,BAUSCH,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CILOSTAZOL,NDA020863,NDA,1999,1999-01-15,PLETAL,OTSUKA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DALFOPRISTIN,NDA050747,NDA,1999,1999-09-21,SYNERCID,KING PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DENILEUKIN DIFTITOX,BLA103767,BLA,1999,1999-02-05,ONTAK,EISAI INC,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+DEXMEDETOMIDINE,NDA021038,NDA,1999,1999-12-17,PRECEDEX,HOSPIRA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DOFETILIDE,NDA020931,NDA,1999,1999-10-01,TIKOSYN,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DOXERCALCIFEROL,NDA020862,NDA,1999,1999-06-09,HECTOROL,SANOFI,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ENTACAPONE,NDA020796,NDA,1999,1999-10-19,COMTAN,ORION PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EPIRUBICIN,NDA050778,NDA,1999,1999-09-15,ELLENCE,PFIZER INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EXEMESTANE,NDA020753,NDA,1999,1999-10-21,AROMASIN,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FERRIC COMPLEX,NDA020955,NDA,1999,1999-02-18,FERRLECIT,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+GADOVERSETAMIDE,NDA020937,NDA,1999,1999-12-08,OPTIMARK,LIEBEL-FLARSHEIM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GANIRELIX,NDA021057,NDA,1999,1999-07-29,GANIRELIX ACETATE,ORGANON USA ORGANON,Type 1 - New Molecular Entity,Peptide,model tiebreak,lower
+INTERFERON GAMMA 1B,BLA103836,BLA,1999,1999-02-25,ACTIMMUNE,HORIZON THERAPEUTICS IRELAND DAC,Type 1 - New Molecular Entity,Protein/Enzyme,rule only (no ChEMBL match),lower
+KETOTIFEN,NDA021066,NDA,1999,1999-07-02,ZADITOR,ALCON PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LEVETIRACETAM,NDA021035,NDA,1999,1999-11-30,KEPPRA,UCB INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MEQUINOL,NDA020922,NDA,1999,1999-12-10,SOLAGE,ALMIRALL,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+MOXIFLOXACIN,NDA021085,NDA,1999,1999-12-10,AVELOX,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NITRIC OXIDE,NDA020845,NDA,1999,1999-12-23,INOMAX,MALLINCKRODT IRELAND,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ORLISTAT,NDA020766,NDA,1999,1999-04-23,XENICAL,CHEPLAPHARM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OSELTAMIVIR,NDA021087,NDA,1999,1999-10-27,TAMIFLU,ROCHE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PEMIROLAST,NDA021079,NDA,1999,1999-09-24,ALAMAST,SANTEN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PIOGLITAZONE,NDA021073,NDA,1999,1999-07-15,ACTOS,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PORACTANT ALFA,BLA020744,BLA,1999,1999-11-18,CUROSURF,CHIESI USA INC,Type 1 - New Molecular Entity,Other,rule only (no ChEMBL match),lower
+QUINUPRISTIN,NDA050747,NDA,1999,1999-09-21,SYNERCID,KING PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RABEPRAZOLE,NDA020973,NDA,1999,1999-08-19,ACIPHEX,WAYLIS THERAP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RAPACURONIUM,NDA020984,NDA,1999,1999-08-18,RAPLON,ORGANON USA INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ROFECOXIB,NDA021042,NDA,1999,1999-05-20,VIOXX,MERCK,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ROSIGLITAZONE,NDA021071,NDA,1999,1999-05-25,AVANDIA,WOODWARD,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SIROLIMUS,NDA021083,NDA,1999,1999-09-15,RAPAMUNE,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TECHNETIUM TC 99M DEPREOTIDE,NDA021012,NDA,1999,1999-08-03,NEO TECT KIT,CIS BIO INTL SA,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+TEMOZOLOMIDE,NDA021029,NDA,1999,1999-08-11,TEMODAR,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZALEPLON,NDA020859,NDA,1999,1999-08-13,SONATA,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZANAMIVIR,NDA021036,NDA,1999,1999-07-26,RELENZA,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ALOSETRON,NDA021107,NDA,2000,2000-02-09,LOTRONEX,LEGACY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ARGATROBAN,NDA020883,NDA,2000,2000-06-30,ARGATROBAN,SANDOZ,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ARSENIC TRIOXIDE,NDA021248,NDA,2000,2000-09-25,TRISENOX,CEPHALON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ARTICAINE,NDA020971,NDA,2000,2000-04-03,SEPTOCAINE,DEPROCO,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+BALSALAZIDE,NDA020610,NDA,2000,2000-07-18,COLAZAL,VALEANT PHARMS INTL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BIVALIRUDIN,NDA020873,NDA,2000,2000-12-15,ANGIOMAX,SANDOZ,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+BOTULINUM TOXIN TYPE B,BLA103846,BLA,2000,2000-12-08,MYOBLOC,ELAN PHARM,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+CETRORELIX,NDA021197,NDA,2000,2000-08-11,CETROTIDE,EMD SERONO INC,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+CEVIMELINE,NDA020989,NDA,2000,2000-01-11,EVOXAC,COSETTE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+COLESEVELAM,NDA021176,NDA,2000,2000-05-26,WELCHOL,COSETTE,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+DOCOSANOL,NDA020941,NDA,2000,2000-07-25,ABREVA,HALEON US HOLDINGS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+INSULIN ASPART,BLA020986,BLA,2000,2000-06-07,NOVOLOG|NOVOLOG FLEXPEN|NOVOLOG FLEXTOUCH|NOVOLOG INNOLET|NOVOLOG PENFILL,NOVO NORDISK INC,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+INSULIN GLARGINE,BLA021081,BLA,2000,2000-04-20,LANTUS|LANTUS SOLOSTAR,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+LINEZOLID,NDA021130,NDA,2000,2000-04-18,ZYVOX,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LOPINAVIR,NDA021226,NDA,2000,2000-09-15,KALETRA,ABBVIE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+MELOXICAM,NDA020938,NDA,2000,2000-04-13,MOBIC,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MIFEPRISTONE,NDA020687,NDA,2000,2000-09-28,MIFEPREX,DANCO LABS LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NATEGLINIDE,NDA021204,NDA,2000,2000-12-22,STARLIX,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OXCARBAZEPINE,NDA021014,NDA,2000,2000-01-14,TRILEPTAL,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PANTOPRAZOLE,NDA020987,NDA,2000,2000-02-02,PROTONIX,WYETH PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PERFLUOROPOLYMETHYLISOPROPYL ETHER,NDA021084,NDA,2000,2000-02-17,SKIN EXPOSURE REDUCTION PASTE AGAINST CHEMICAL WARFARE AGENTS,US ARMY MED RES,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+POLYTETRAFLUOROETHYLENE,NDA021084,NDA,2000,2000-02-17,SKIN EXPOSURE REDUCTION PASTE AGAINST CHEMICAL WARFARE AGENTS,US ARMY MED RES,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+RIVASTIGMINE,NDA020823,NDA,2000,2000-04-21,EXELON,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TENECTEPLASE,BLA103909,BLA,2000,2000-06-02,TNKASE,GENENTECH,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+TINZAPARIN,NDA020484,NDA,2000,2000-07-14,INNOHEP,LEO PHARMA AS,Type 1 - New Molecular Entity,Other,hand-adjudicated (glycan),lower
+TRIPTORELIN,NDA020715,NDA,2000,2000-06-15,TRELSTAR,VERITY,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+UNOPROSTONE ISOPROPYL,NDA021214,NDA,2000,2000-08-03,RESCULA,SUCAMPO PHARMA LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+VERTEPORFIN,NDA021119,NDA,2000,2000-04-12,VISUDYNE,BAUSCH LOMB IRELAND,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZONISAMIDE,NDA020789,NDA,2000,2000-03-27,ZONEGRAN,ADVANZ PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ALEMTUZUMAB,BLA103948,BLA,2001,2001-05-07,CAMPATH|LEMTRADA,GENZYME,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+ALMOTRIPTAN,NDA021001,NDA,2001,2001-05-07,AXERT,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ANAKINRA,BLA103950,BLA,2001,2001-11-14,KINERET,BIOVITRUM AB,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+BIMATOPROST,NDA021275,NDA,2001,2001-03-16,LUMIGAN,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BOSENTAN,NDA021290,NDA,2001,2001-11-20,TRACLEER,ACTELION,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CASPOFUNGIN,NDA021227,NDA,2001,2001-01-26,CANCIDAS,MERCK,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CEFDITOREN PIVOXIL,NDA021222,NDA,2001,2001-08-29,SPECTRACEF,VANSEN PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DARBEPOETIN ALFA,BLA103951,BLA,2001,2001-09-17,ARANESP,AMGEN,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+DESLORATADINE,NDA021165,NDA,2001,2001-12-21,CLARINEX,ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DROSPIRENONE,NDA021098,NDA,2001,2001-05-11,YASMIN,BAYER HLTHCARE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+DUTASTERIDE,NDA021319,NDA,2001,2001-11-20,AVODART,WAYLIS THERAP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ERTAPENEM,NDA021337,NDA,2001,2001-11-21,INVANZ,MSD SUB MERCK,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ETONOGESTREL,NDA021187,NDA,2001,2001-10-03,NUVARING,ORGANON USA ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FONDAPARINUX,NDA021345,NDA,2001,2001-12-07,ARIXTRA,MYLAN IRELAND LTD,Type 1 - New Molecular Entity,Small molecule,hand-adjudicated (glycan),lower
+FORMOTEROL,NDA020831,NDA,2001,2001-02-16,FORADIL,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FROVATRIPTAN,NDA021006,NDA,2001,2001-11-08,FROVA,ENDO OPERATIONS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GALANTAMINE,NDA021169,NDA,2001,2001-02-28,RAZADYNE,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IMATINIB,NDA021335,NDA,2001,2001-05-10,GLEEVEC,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NESIRITIDE,NDA020920,NDA,2001,2001-08-10,NATRECOR,SCIOS LLC,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+NORELGESTROMIN,NDA021180,NDA,2001,2001-11-20,ORTHO EVRA,JANSSEN PHARMS,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,rule+chembl concordant,lower
+PEGINTERFERON ALFA 2B,BLA103949,BLA,2001,2001-01-19,PEGINTRON|SYLATRON,SCHERING,Type 1 - New Molecular Entity,Protein/Enzyme,rule only (no ChEMBL match),lower
+PERFLUTREN,NDA021064,NDA,2001,2001-07-31,DEFINITY|DEFINITY RT,LANTHEUS MEDCL,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PIMECROLIMUS,NDA021302,NDA,2001,2001-12-13,ELIDEL,BAUSCH,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TENOFOVIR DISOPROXIL,NDA021356,NDA,2001,2001-10-26,VIREAD,GILEAD SCIENCES INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TRAVOPROST,NDA021257,NDA,2001,2001-03-16,TRAVATAN,ALCON PHARMS LTD,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+VALDECOXIB,NDA021341,NDA,2001,2001-11-16,BEXTRA,GD SEARLE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZIPRASIDONE,NDA020825,NDA,2001,2001-02-05,GEODON,VIATRIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZOLEDRONIC ACID,NDA021223,NDA,2001,2001-08-20,ZOMETA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ADALIMUMAB,BLA125057,BLA,2002,2002-12-31,HUMIRA,ABBVIE INC,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+ADEFOVIR DIPIVOXIL,NDA021449,NDA,2002,2002-09-20,HEPSERA,GILEAD,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ARIPIPRAZOLE,NDA021436,NDA,2002,2002-11-15,ABILIFY,OTSUKA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ATOMOXETINE,NDA021411,NDA,2002,2002-11-26,STRATTERA,LILLY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ELETRIPTAN,NDA021016,NDA,2002,2002-12-26,RELPAX,UPJOHN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EPLERENONE,NDA021437,NDA,2002,2002-09-27,INSPRA,UPJOHN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EZETIMIBE,NDA021445,NDA,2002,2002-10-25,ZETIA,ORGANON,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FULVESTRANT,NDA021344,NDA,2002,2002-04-25,FASLODEX,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IBRITUMOMAB TIUXETAN,BLA125019,BLA,2002,2002-02-19,ZEVALIN,SPECTRUM PHARMS,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+ICODEXTRIN,NDA021321,NDA,2002,2002-12-20,EXTRANEAL,VANTIVE US HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+NITAZOXANIDE,NDA021498,NDA,2002,2002-11-22,ALINIA,ROMARK,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NITISINONE,NDA021232,NDA,2002,2002-01-18,ORFADIN,SWEDISH ORPHAN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OLMESARTAN MEDOXOMIL,NDA021286,NDA,2002,2002-04-25,BENICAR,COSETTE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OXALIPLATIN,NDA021492,NDA,2002,2002-08-09,ELOXATIN,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OXYBATE,NDA021196,NDA,2002,2002-07-17,XYREM,JAZZ PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PEGFILGRASTIM,BLA125031,BLA,2002,2002-01-31,NEULASTA,AMGEN,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+PEGINTERFERON ALFA 2A,BLA103964,BLA,2002,2002-10-16,PEGASYS,PHARMAAND GMBH,Type 1 - New Molecular Entity,Protein/Enzyme,rule only (no ChEMBL match),lower
+PERFLEXANE,NDA021191,NDA,2002,2002-05-31,IMAGENT,VESSELON SPV LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RASBURICASE,BLA103946,BLA,2002,2002-07-12,ELITEK,SANOFI SYNTHELABO,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+TEGASEROD,NDA021200,NDA,2002,2002-07-24,ZELNORM,ALFASIGMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TREPROSTINIL,NDA021272,NDA,2002,2002-05-21,REMODULIN,UNITED THERAP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+VORICONAZOLE,NDA021266,NDA,2002,2002-05-24,VFEND,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ABARELIX,NDA021320,NDA,2003,2003-11-25,PLENAXIS,SPECIALITY EUROPEAN,Type 1 - New Molecular Entity,Peptide,model tiebreak,lower
+AGALSIDASE BETA,BLA103979,BLA,2003,2003-04-24,FABRAZYME,GENZYME,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+ALFUZOSIN,NDA021287,NDA,2003,2003-06-12,UROXATRAL,ADVANZ PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+APREPITANT,NDA021549,NDA,2003,2003-03-26,EMEND,MSD,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ATAZANAVIR,NDA021567,NDA,2003,2003-06-20,REYATAZ,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BORTEZOMIB,NDA021602,NDA,2003,2003-05-13,VELCADE,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DAPTOMYCIN,NDA021572,NDA,2003,2003-09-12,CUBICIN|CUBICIN RF,CUBIST PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EMTRICITABINE,NDA021500,NDA,2003,2003-07-02,EMTRIVA,GILEAD,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ENFUVIRTIDE,NDA021481,NDA,2003,2003-03-13,FUZEON,ROCHE,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+EPINASTINE,NDA021565,NDA,2003,2003-10-16,ELESTAT,ALLERGAN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+FERRIC HEXACYANOFERRATE,NDA021626,NDA,2003,2003-10-02,RADIOGARDASE (PRUSSIAN BLUE),HEYL CHEMISCH,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GEFITINIB,NDA021399,NDA,2003,2003-05-05,IRESSA,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GEMIFLOXACIN,NDA021158,NDA,2003,2003-04-04,FACTIVE,LG CHEM LTD,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+IBANDRONATE,NDA021455,NDA,2003,2003-05-16,BONIVA,HOFFMANN LA ROCHE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+LARONIDASE,BLA125058,BLA,2003,2003-04-30,ALDURAZYME,BIOMARIN,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+MEMANTINE,NDA021487,NDA,2003,2003-10-16,NAMENDA,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MIGLUSTAT,NDA021348,NDA,2003,2003-07-31,ZAVESCA,ACTELION,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+OMALIZUMAB,BLA103976,BLA,2003,2003-06-20,XOLAIR,GENENTECH,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+PALONOSETRON,NDA021372,NDA,2003,2003-07-25,ALOXI,HELSINN HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PEGVISOMANT,BLA021106,BLA,2003,2003-03-25,SOMAVERT,PHARMACIA,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+ROSUVASTATIN,NDA021366,NDA,2003,2003-08-12,CRESTOR,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SERTACONAZOLE,NDA021385,NDA,2003,2003-12-10,ERTACZO,LACER PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TADALAFIL,NDA021368,NDA,2003,2003-11-21,CIALIS,LILLY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+VARDENAFIL,NDA021400,NDA,2003,2003-08-19,LEVITRA,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ACAMPROSATE,NDA021431,NDA,2004,2004-07-29,CAMPRAL,FOREST LABS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+APOMORPHINE,NDA021264,NDA,2004,2004-04-20,APOKYN,MDD US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+AZACITIDINE,NDA050794,NDA,2004,2004-05-19,VIDAZA,BRISTOL-MYERS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+BEVACIZUMAB,BLA125085,BLA,2004,2004-02-26,AVASTIN,GENENTECH,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+CETUXIMAB,BLA125084,BLA,2004,2004-02-12,ERBITUX,IMCLONE,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+CINACALCET,NDA021688,NDA,2004,2004-03-08,SENSIPAR,AMGEN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+CLOFARABINE,NDA021673,NDA,2004,2004-12-28,CLOLAR,GENZYME,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DARIFENACIN,NDA021513,NDA,2004,2004-12-22,ENABLEX,ABBVIE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DULOXETINE,NDA021427,NDA,2004,2004-08-03,CYMBALTA,LILLY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ERLOTINIB,NDA021743,NDA,2004,2004-11-18,TARCEVA,OSI PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ESZOPICLONE,NDA021476,NDA,2004,2004-12-15,LUNESTA,WAYLIS THERAP,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+GADOBENATE DIMEGLUMINE,NDA021357,NDA,2004,2004-11-23,MULTIHANCE,BRACCO,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ILOPROST,NDA021779,NDA,2004,2004-12-29,VENTAVIS,ACTELION,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+INSULIN GLULISINE,BLA021629,BLA,2004,2004-04-16,APIDRA|APIDRA SOLOSTAR,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+L GLUTAMINE,NDA021667,NDA,2004,2004-06-10,NUTRESTORE,EMMAUS MEDCL,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+LANTHANUM,NDA021468,NDA,2004,2004-10-26,FOSRENOL,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+NATALIZUMAB,BLA125104,BLA,2004,2004-11-23,TYSABRI,BIOGEN IDEC,Type 1 - New Molecular Entity,Antibody,rule+chembl concordant,lower
+OMEGA 3 ACID ETHYL ESTERS,NDA021654,NDA,2004,2004-11-10,LOVAZA,WAYLIS THERAP,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+PALIFERMIN,BLA125103,BLA,2004,2004-12-15,KEPIVANCE,BIOVITRUM AB,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+PEGAPTANIB,NDA021756,NDA,2004,2004-09-17,MACUGEN,BAUSCH AND LOMB INC,Type 1 - New Molecular Entity,Oligonucleotide,rule only (no ChEMBL match),lower
+PEMETREXED,NDA021462,NDA,2004,2004-02-04,ALIMTA,LILLY,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PENTETATE CALCIUM TRISODIUM,NDA021749,NDA,2004,2004-08-11,PENTETATE CALCIUM TRISODIUM,HAMELN,Type 1 - New Molecular Entity,Small molecule,rule only (no ChEMBL match),lower
+PENTETATE ZINC TRISODIUM,NDA021751,NDA,2004,2004-08-11,PENTETATE ZINC TRISODIUM,HAMELN PHARMA PLUS,Type 1 - New Molecular Entity,Small molecule,restored: distinct NME from pentetate calcium trisodium; ZINC/CALCIUM wrongly stripped as counterions,lower
+PREGABALIN,NDA021446,NDA,2004,2004-12-30,LYRICA,UPJOHN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+RIFAXIMIN,NDA021361,NDA,2004,2004-05-25,XIFAXAN,SALIX PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SECRETIN SYNTHETIC HUMAN,NDA021256,NDA,2004,2004-04-09,CHIRHOSTIM,CHIRHOCLIN,Type 1 - New Molecular Entity,Peptide,model tiebreak,lower
+SOLIFENACIN,NDA021518,NDA,2004,2004-11-19,VESICARE,ASTELLAS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TELITHROMYCIN,NDA021144,NDA,2004,2004-04-01,KETEK,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TINIDAZOLE,NDA021618,NDA,2004,2004-05-17,TINDAMAX,MISSION PHARMA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TIOTROPIUM,NDA021395,NDA,2004,2004-01-30,SPIRIVA,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TROSPIUM,NDA021595,NDA,2004,2004-05-28,SANCTURA,ALLERGAN,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TRYPAN BLUE,NDA021670,NDA,2004,2004-12-16,VISIONBLUE,DORC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ZICONOTIDE,NDA021060,NDA,2004,2004-12-28,PRIALT,ESTEVE,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+ABATACEPT,BLA125118,BLA,2005,2005-12-23,ORENCIA,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+CONIVAPTAN,NDA021697,NDA,2005,2005-12-29,VAPRISOL|VAPRISOL IN 5% DEXTROSE IN PLASTIC CONTAINER,APOTEX,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+DEFERASIROX,NDA021882,NDA,2005,2005-11-02,EXJADE,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ENTECAVIR,NDA021797,NDA,2005,2005-03-29,BARACLUDE,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+EXENATIDE SYNTHETIC,NDA021773,NDA,2005,2005-04-28,BYETTA,ASTRAZENECA AB,Type 1 - New Molecular Entity,Peptide,model tiebreak,lower
+GALSULFASE,BLA125117,BLA,2005,2005-05-31,NAGLAZYME,BIOMARIN,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+INSULIN DETEMIR,BLA021536,BLA,2005,2005-06-16,LEVEMIR|LEVEMIR FLEXPEN|LEVEMIR FLEXTOUCH|LEVEMIR INNOLET|LEVEMIR PENFILL,NOVO NORDISK INC,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+LENALIDOMIDE,NDA021880,NDA,2005,2005-12-27,REVLIMID,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+MECASERMIN,BLA021839,BLA,2005,2005-08-30,INCRELEX,IPSEN INC,Type 1 - New Molecular Entity,Protein/Enzyme,rule+chembl concordant,lower
+MECASERMIN RINFABATE,BLA021884,BLA,2005,2005-12-12,IPLEX,INSMED,Type 1 - New Molecular Entity and Type 4 - New Combination,Protein/Enzyme,rule+chembl concordant,lower
+MICAFUNGIN,NDA021506,NDA,2005,2005-03-16,MYCAMINE,ASTELLAS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NELARABINE,NDA021877,NDA,2005,2005-10-28,ARRANON,SANDOZ,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+NEPAFENAC,NDA021862,NDA,2005,2005-08-19,NEVANAC,HARROW EYE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+PRAMLINTIDE,NDA021332,NDA,2005,2005-03-16,SYMLIN,ASTRAZENECA AB,Type 1 - New Molecular Entity,Peptide,rule+model (2 of 3),lower
+RAMELTEON,NDA021782,NDA,2005,2005-07-22,ROZEREM,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+SORAFENIB,NDA021923,NDA,2005,2005-12-01,NEXAVAR,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TIGECYCLINE,NDA021821,NDA,2005,2005-06-15,TYGACIL,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+TIPRANAVIR,NDA021814,NDA,2005,2005-06-22,APTIVUS,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,lower
+ALGLUCOSIDASE ALFA,BLA125141,BLA,2006,2006-04-28,MYOZYME,GENZYME,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ANIDULAFUNGIN,NDA021632,NDA,2006,2006-02-17,ERAXIS,VICURON HOLDINGS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BISMUTH SUBCITRATE POTASSIUM,NDA050786,NDA,2006,2006-09-28,PYLERA,LABS JUVISE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,restored: new active moiety in Pylera; 'BISMUTH SUBCITRATE' wrongly listed as a salt token,validated
+CICLESONIDE,NDA022004,NDA,2006,2006-10-20,OMNARIS,AZURITY,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DARUNAVIR,NDA021976,NDA,2006,2006-06-23,PREZISTA,JANSSEN PRODS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DASATINIB,NDA021986,NDA,2006,2006-06-28,SPRYCEL,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DECITABINE,NDA021790,NDA,2006,2006-05-02,DACOGEN,OTSUKA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ECAMSULE,NDA021502,NDA,2006,2006-07-21,ANTHELIOS SX,LOREAL USA,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+IDURSULFASE,BLA125151,BLA,2006,2006-07-24,ELAPRASE,SHIRE,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+LUBIPROSTONE,NDA021908,NDA,2006,2006-01-31,AMITIZA,SUCAMPO PHARMA LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OCTOCRYLENE,NDA021502,NDA,2006,2006-07-21,ANTHELIOS SX,LOREAL USA,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+PALIPERIDONE,NDA021999,NDA,2006,2006-12-19,INVEGA,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PANITUMUMAB,BLA125147,BLA,2006,2006-09-27,VECTIBIX,AMGEN,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+POSACONAZOLE,NDA022003,NDA,2006,2006-09-15,NOXAFIL,SCHERING,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RANIBIZUMAB,BLA125156,BLA,2006,2006-06-30,LUCENTIS,GENENTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+RANOLAZINE,NDA021526,NDA,2006,2006-01-27,RANEXA,MENARINI INTL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RASAGILINE,NDA021641,NDA,2006,2006-05-16,AZILECT,TEVA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SINECATECHINS,NDA021902,NDA,2006,2006-10-31,VEREGEN,ANI PHARMS,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+SITAGLIPTIN,NDA021995,NDA,2006,2006-10-16,JANUVIA,MSD,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SUNITINIB,NDA021938,NDA,2006,2006-01-26,SUTENT,CPPI CV,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TELBIVUDINE,NDA022011,NDA,2006,2006-10-25,TYZEKA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VARENICLINE,NDA021928,NDA,2006,2006-05-10,CHANTIX,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VORINOSTAT,NDA021991,NDA,2006,2006-10-06,ZOLINZA,MSD SUB MERCK,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ALISKIREN,NDA021985,NDA,2007,2007-03-05,TEKTURNA,LXO IRELAND,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AMBRISENTAN,NDA022081,NDA,2007,2007-06-15,LETAIRIS,GILEAD,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AMMONIA N 13,NDA022119,NDA,2007,2007-08-23,AMMONIA N 13,FEINSTEIN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DORIPENEM,NDA022106,NDA,2007,2007-10-12,DORIBAX,SHIONOGI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ECULIZUMAB,BLA125166,BLA,2007,2007-03-16,SOLIRIS,ALEXION PHARM,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+IXABEPILONE,NDA022065,NDA,2007,2007-10-16,IXEMPRA KIT,R-PHARM US LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LANREOTIDE,NDA022074,NDA,2007,2007-08-30,SOMATULINE DEPOT,IPSEN PHARMA,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+LAPATINIB DITOSYLATE,NDA022059,NDA,2007,2007-03-13,TYKERB,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LISDEXAMFETAMINE DIMESYLATE,NDA021977,NDA,2007,2007-02-23,VYVANSE,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MARAVIROC,NDA022128,NDA,2007,2007-08-06,SELZENTRY,VIIV HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+METHOXY POLYETHYLENE GLYCOL EPOETIN BETA,BLA125164,BLA,2007,2007-11-14,MIRCERA,HOFFMAN-LA ROCHE,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+NEBIVOLOL,NDA021742,NDA,2007,2007-12-17,BYSTOLIC,ALLERGAN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NILOTINIB,NDA022068,NDA,2007,2007-10-29,TASIGNA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RALTEGRAVIR,NDA022145,NDA,2007,2007-10-12,ISENTRESS|ISENTRESS HD,MSD SUB MERCK,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RETAPAMULIN,NDA022055,NDA,2007,2007-04-12,ALTABAX,ALMIRALL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ROTIGOTINE,NDA021829,NDA,2007,2007-05-09,NEUPRO,UCB INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SAPROPTERIN,NDA022181,NDA,2007,2007-12-13,KUVAN,BIOMARIN PHARM,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+TEMSIROLIMUS,NDA022088,NDA,2007,2007-05-30,TORISEL,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ALVIMOPAN,NDA021775,NDA,2008,2008-05-20,ENTEREG,CUBIST PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BENDAMUSTINE,NDA022249,NDA,2008,2008-03-20,TREANDA,CEPHALON,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CERTOLIZUMAB PEGOL,BLA125160,BLA,2008,2008-04-22,CIMZIA,UCB INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CLEVIDIPINE,NDA022156,NDA,2008,2008-08-01,CLEVIPREX,CHIESI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DEGARELIX,NDA022201,NDA,2008,2008-12-24,FIRMAGON,FERRING,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+DESVENLAFAXINE,NDA021992,NDA,2008,2008-02-29,PRISTIQ,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DIFLUPREDNATE,NDA022212,NDA,2008,2008-06-23,DUREZOL,SANDOZ,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELTROMBOPAG,NDA022291,NDA,2008,2008-11-20,PROMACTA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+ETRAVIRINE,NDA022187,NDA,2008,2008-01-18,INTELENCE,JANSSEN R AND D,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FESOTERODINE,NDA022030,NDA,2008,2008-10-31,TOVIAZ,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FOSAPREPITANT DIMEGLUMINE,NDA022023,NDA,2008,2008-01-25,EMEND,MERCK AND CO INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FOSPROPOFOL,NDA022244,NDA,2008,2008-12-08,LUSEDRA,EISAI INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GADOFOSVESET TRISODIUM,NDA021711,NDA,2008,2008-12-22,ABLAVAR,LANTHEUS MEDCL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GADOXETATE,NDA022090,NDA,2008,2008-07-03,EOVIST,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IOBENGUANE I 123,NDA022290,NDA,2008,2008-09-19,ADREVIEW,GE HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LACOSAMIDE,NDA022253,NDA,2008,2008-10-28,VIMPAT,UCB INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+METHYLNALTREXONE,NDA021964,NDA,2008,2008-04-24,RELISTOR,SALIX PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PLERIXAFOR,NDA022311,NDA,2008,2008-12-15,MOZOBIL,GENZYME,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+REGADENOSON,NDA022161,NDA,2008,2008-04-10,LEXISCAN,ASTELLAS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RILONACEPT,BLA125249,BLA,2008,2008-02-27,ARCALYST,"KINIKSA PHARMACEUTICALS (UK), LTD.",Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ROMIPLOSTIM,BLA125268,BLA,2008,2008-08-22,NPLATE,AMGEN,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+RUFINAMIDE,NDA021911,NDA,2008,2008-11-14,BANZEL,EISAI INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SILODOSIN,NDA022206,NDA,2008,2008-10-08,RAPAFLO,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TAPENTADOL,NDA022304,NDA,2008,2008-11-20,NUCYNTA,COLLEGIUM PHARM INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TETRABENAZINE,NDA021894,NDA,2008,2008-08-15,XENAZINE,BAUSCH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ABOBOTULINUMTOXINA,BLA125274,BLA,2009,2009-04-29,DYSPORT,IPSEN BIOPHARM LTD,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ARTEMETHER,NDA022268,NDA,2009,2009-04-07,COARTEM,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ASENAPINE,NDA022117,NDA,2009,2009-08-13,SAPHRIS,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BENZYL ALCOHOL,NDA022129,NDA,2009,2009-04-09,ULESFIA,SHIONOGI,Type 1 - New Molecular Entity,Small molecule,restored: active ingredient of Ulesfia; wrongly removed by the excipient filter,validated
+BEPOTASTINE BESILATE,NDA022288,NDA,2009,2009-09-08,BEPREVE,BAUSCH AND LOMB INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BESIFLOXACIN,NDA022308,NDA,2009,2009-05-28,BESIVANCE,BAUSCH AND LOMB,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CANAKINUMAB,BLA125319,BLA,2009,2009-06-17,ILARIS,NOVARTIS PHARMS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CAPSAICIN,NDA022395,NDA,2009,2009-11-16,QUTENZA,AVERITAS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DRONEDARONE,NDA022425,NDA,2009,2009-07-01,MULTAQ,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ECALLANTIDE,BLA125277,BLA,2009,2009-12-01,KALBITOR,DYAX CORP.,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+EVEROLIMUS,NDA022334,NDA,2009,2009-03-30,AFINITOR,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FEBUXOSTAT,NDA021856,NDA,2009,2009-02-13,ULORIC,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GOLIMUMAB,BLA125289,BLA,2009,2009-04-24,SIMPONI,CENTOCOR ORTHO BIOTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ILOPERIDONE,NDA022192,NDA,2009,2009-05-06,FANAPT,VANDA PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUMEFANTRINE,NDA022268,NDA,2009,2009-04-07,COARTEM,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MILNACIPRAN,NDA022256,NDA,2009,2009-01-14,SAVELLA,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OFATUMUMAB,BLA125326,BLA,2009,2009-10-26,ARZERRA|KESIMPTA,NOVARTIS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+PAZOPANIB,NDA022465,NDA,2009,2009-10-19,VOTRIENT,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PITAVASTATIN,NDA022363,NDA,2009,2009-08-03,LIVALO,KOWA CO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PRALATREXATE,NDA022468,NDA,2009,2009-09-24,FOLOTYN,ACROTECH BIOPHARMA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PRASUGREL,NDA022307,NDA,2009,2009-07-10,EFFIENT,COSETTE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ROMIDEPSIN,NDA022393,NDA,2009,2009-11-05,ISTODAX,BRISTOL-MYERS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SAXAGLIPTIN,NDA022350,NDA,2009,2009-07-31,ONGLYZA,ASTRAZENECA AB,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TELAVANCIN,NDA022110,NDA,2009,2009-09-11,VIBATIV,APOTEX,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TOLVAPTAN,NDA022275,NDA,2009,2009-05-19,SAMSCA,OTSUKA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+USTEKINUMAB,BLA125261,BLA,2009,2009-09-25,STELARA,CENTOCOR ORTHO BIOTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+VIGABATRIN,NDA020427,NDA,2009,2009-08-21,SABRIL,LUNDBECK PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ALCAFTADINE,NDA022134,NDA,2010,2010-07-28,LASTACAFT,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CABAZITAXEL,NDA201023,NDA,2010,2010-06-17,JEVTANA KIT,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CARGLUMIC ACID,NDA022562,NDA,2010,2010-03-18,CARBAGLU,RECORDATI RARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CEFTAROLINE FOSAMIL,NDA200327,NDA,2010,2010-10-29,TEFLARO,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+COLLAGENASE CLOSTRIDIUM HISTOLYTICUM,BLA125338,BLA,2010,2010-02-02,XIAFLEX,AUXILIUM PHARMS,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+DABIGATRAN ETEXILATE,NDA022512,NDA,2010,2010-10-19,PRADAXA,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DALFAMPRIDINE,NDA022250,NDA,2010,2010-01-22,AMPYRA,MERZ,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DENOSUMAB,BLA125320,BLA,2010,2010-06-01,PROLIA|XGEVA,AMGEN,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+DIENOGEST,NDA022252,NDA,2010,2010-05-06,NATAZIA,BAYER HLTHCARE,Efficacy ; Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+ERIBULIN,NDA201532,NDA,2010,2010-11-15,HALAVEN,EISAI INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FINGOLIMOD,NDA022527,NDA,2010,2010-09-21,GILENYA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+INCOBOTULINUMTOXINA,BLA125360,BLA,2010,2010-07-30,XEOMIN,MERZ PHARMS,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+LIRAGLUTIDE,NDA022341,NDA,2010,2010-01-25,VICTOZA,NOVO NORDISK INC,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+LURASIDONE,NDA200603,NDA,2010,2010-10-28,LATUDA,SUNOVION PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PEGLOTICASE,BLA125293,BLA,2010,2010-09-14,KRYSTEXXA,HORIZON PHARMA,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+POLIDOCANOL,NDA021201,NDA,2010,2010-03-30,ASCLERA,CHEMISCH FBRK KRSSLR,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TESAMORELIN,BLA022505,BLA,2010,2010-11-10,EGRIFTA,THERATECHNOLOGIES,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+TOCILIZUMAB,BLA125276,BLA,2010,2010-01-08,ACTEMRA,GENENTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ULIPRISTAL,NDA022474,NDA,2010,2010-08-13,ELLA,LAB HRA PHARMA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VELAGLUCERASE ALFA,BLA022575,BLA,2010,2010-02-26,VPRIV,SHIRE HUMAN GENETIC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ABIRATERONE,NDA202379,NDA,2011,2011-04-28,ZYTIGA,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AFLIBERCEPT,BLA125387,BLA,2011,2011-11-18,EYLEA,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+AZILSARTAN KAMEDOXOMIL,NDA200796,NDA,2011,2011-02-25,EDARBI,AZURITY,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BELATACEPT,BLA125288,BLA,2011,2011-06-15,NULOJIX,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+BELIMUMAB,BLA125370,BLA,2011,2011-03-09,BENLYSTA,HUMAN GENOME SCIENCES INC.,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+BOCEPREVIR,NDA202258,NDA,2011,2011-05-13,VICTRELIS,MERCK SHARP DOHME,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+BRENTUXIMAB VEDOTIN,BLA125388,BLA,2011,2011-08-19,ADCETRIS,SEATTLE GENETICS,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+CLOBAZAM,NDA202067,NDA,2011,2011-10-21,ONFI,LUNDBECK PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CRIZOTINIB,NDA202570,NDA,2011,2011-08-26,XALKORI,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DEFERIPRONE,NDA021825,NDA,2011,2011-10-14,FERRIPROX,CHIESI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+EZOGABINE,NDA022345,NDA,2011,2011-06-10,POTIGA,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FIDAXOMICIN,NDA201699,NDA,2011,2011-05-27,DIFICID,CUBIST PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GABAPENTIN ENACARBIL,NDA022399,NDA,2011,2011-04-06,HORIZANT,AZURITY,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GADOBUTROL,NDA201277,NDA,2011,2011-03-14,GADAVIST,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ICATIBANT,NDA022150,NDA,2011,2011-08-25,FIRAZYR,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+INDACATEROL,NDA022383,NDA,2011,2011-07-01,ARCAPTA NEOHALER,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IOFLUPANE I 123,NDA022454,NDA,2011,2011-01-14,DATSCAN,GE HLTHCARE INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IPILIMUMAB,BLA125377,BLA,2011,2011-03-25,YERVOY,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+LINAGLIPTIN,NDA201280,NDA,2011,2011-05-02,TRADJENTA,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RILPIVIRINE,NDA202022,NDA,2011,2011-05-20,EDURANT,JANSSEN PRODS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RIVAROXABAN,NDA022406,NDA,2011,2011-07-01,XARELTO,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ROFLUMILAST,NDA022522,NDA,2011,2011-02-28,DALIRESP,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RUXOLITINIB,NDA202192,NDA,2011,2011-11-16,JAKAFI,INCYTE CORP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SPINOSAD,NDA022408,NDA,2011,2011-01-18,NATROBA,CIPHER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TELAPREVIR,NDA201917,NDA,2011,2011-05-23,INCIVEK,VERTEX PHARMS,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+TICAGRELOR,NDA022433,NDA,2011,2011-07-20,BRILINTA,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VANDETANIB,NDA022405,NDA,2011,2011-04-06,CAPRELSA,GENZYME CORP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VEMURAFENIB,NDA202429,NDA,2011,2011-08-17,ZELBORAF,HOFFMANN LA ROCHE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VILAZODONE,NDA022567,NDA,2011,2011-01-21,VIIBRYD,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ACLIDINIUM,NDA202450,NDA,2012,2012-07-23,TUDORZA PRESSAIR,AZURITY,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+APIXABAN,NDA202155,NDA,2012,2012-12-28,ELIQUIS,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AVANAFIL,NDA202276,NDA,2012,2012-04-27,STENDRA,VIVUS LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AXITINIB,NDA202324,NDA,2012,2012-01-27,INLYTA,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BEDAQUILINE,NDA204384,NDA,2012,2012-12-28,SIRTURO,JANSSEN THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BOSUTINIB,NDA203341,NDA,2012,2012-09-04,BOSULIF,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CABOZANTINIB S,NDA203756,NDA,2012,2012-11-29,COMETRIQ,EXELIXIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CARFILZOMIB,NDA202714,NDA,2012,2012-07-20,KYPROLIS,ONYX PHARMS AMGEN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CHOLINE C 11,NDA203155,NDA,2012,2012-09-12,CHOLINE C-11,MCPRF,Type 1 - New Molecular Entity,Small molecule,"rule only (no ChEMBL match); name corrected - CHOLINE is the active moiety here, not a counterion",validated
+COBICISTAT,NDA203100,NDA,2012,2012-08-27,STRIBILD,GILEAD SCIENCES INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+CROFELEMER,NDA202292,NDA,2012,2012-12-31,MYTESI,NAPO PHARMS INC,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+ELVITEGRAVIR,NDA203100,NDA,2012,2012-08-27,STRIBILD,GILEAD SCIENCES INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+ENZALUTAMIDE,NDA203415,NDA,2012,2012-08-31,XTANDI,ASTELLAS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FLORBETAPIR F 18,NDA202008,NDA,2012,2012-04-06,AMYVID,AVID RADIOPHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GLUCARPIDASE,BLA125327,BLA,2012,2012-01-17,VORAXAZE,BTG INTERNATIONAL INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+INGENOL MEBUTATE,NDA202833,NDA,2012,2012-01-23,PICATO,LEO LABS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IVACAFTOR,NDA203188,NDA,2012,2012-01-31,KALYDECO,VERTEX PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LINACLOTIDE,NDA202811,NDA,2012,2012-08-30,LINZESS,ABBVIE,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+LOMITAPIDE,NDA203858,NDA,2012,2012-12-21,JUXTAPID,CHIESI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUCINACTANT,NDA021746,NDA,2012,2012-03-06,SURFAXIN,LEES PHARM HK,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+MIRABEGRON,NDA202611,NDA,2012,2012-06-28,MYRBETRIQ,APGDI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OCRIPLASMIN,BLA125422,BLA,2012,2012-10-17,JETREA,"THROMBOGENICS, INC",Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+OMACETAXINE MEPESUCCINATE,NDA203585,NDA,2012,2012-10-26,SYNRIBO,TEVA PHARMS INTL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PASIREOTIDE DIASPARTATE,NDA200677,NDA,2012,2012-12-14,SIGNIFOR,RECORDATI RARE,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+PEGINESATIDE,NDA202799,NDA,2012,2012-03-27,OMONTYS|OMONTYS PRESERVATIVE FREE,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+PERAMPANEL,NDA202834,NDA,2012,2012-10-22,FYCOMPA,CATALYST PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PERTUZUMAB,BLA125409,BLA,2012,2012-06-08,PERJETA,GENENTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+PICOSULFATE,NDA202535,NDA,2012,2012-07-16,PREPOPIK,FERRING PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PONATINIB,NDA203469,NDA,2012,2012-12-14,ICLUSIG,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RAXIBACUMAB,BLA125349,BLA,2012,2012-12-14,RAXIBACUMAB,HUMAN GENOME SCIENCES INC.,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+REGORAFENIB,NDA203085,NDA,2012,2012-09-27,STIVARGA,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TAFLUPROST,NDA202514,NDA,2012,2012-02-10,ZIOPTAN,THEA PHARMA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TALIGLUCERASE ALFA,BLA022458,BLA,2012,2012-05-01,ELELYSO,PFIZER,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+TBO FILGRASTIM,BLA125294,BLA,2012,2012-08-29,GRANIX,SICOR BIOTECH,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+TEDUGLUTIDE,NDA203441,NDA,2012,2012-12-21,GATTEX KIT,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+TERIFLUNOMIDE,NDA202992,NDA,2012,2012-09-12,AUBAGIO,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TOFACITINIB,NDA203214,NDA,2012,2012-11-06,XELJANZ,PF PRISM CV,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VISMODEGIB,NDA203388,NDA,2012,2012-01-30,ERIVEDGE,GENENTECH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ZIV AFLIBERCEPT,BLA125418,BLA,2012,2012-08-03,ZALTRAP,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ADO TRASTUZUMAB EMTANSINE,BLA125427,BLA,2013,2013-02-22,KADCYLA,GENENTECH,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+AFATINIB DIMALEATE,NDA201292,NDA,2013,2013-07-12,GILOTRIF,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ALOGLIPTIN,NDA022271,NDA,2013,2013-01-25,NESINA,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BAZEDOXIFENE,NDA022247,NDA,2013,2013-10-03,DUAVEE,WYETH PHARMS,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+CANAGLIFLOZIN,NDA204042,NDA,2013,2013-03-29,INVOKANA,JANSSEN PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DABRAFENIB,NDA202806,NDA,2013,2013-05-29,TAFINLAR,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DIMETHYL,NDA204063,NDA,2013,2013-03-27,TECFIDERA,BIOGEN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DOLUTEGRAVIR,NDA204790,NDA,2013,2013-08-12,TIVICAY,VIIV HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ESLICARBAZEPINE,NDA022416,NDA,2013,2013-11-08,APTIOM,SUMITOMO PHARMA AM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FLUTEMETAMOL F 18,NDA203137,NDA,2013,2013-10-25,VIZAMYL,GE HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GADOTERATE,NDA204781,NDA,2013,2013-03-20,DOTAREM,GUERBET,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IBRUTINIB,NDA205552,NDA,2013,2013-11-13,IMBRUVICA,PHARMACYCLICS LLC,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LULICONAZOLE,NDA204153,NDA,2013,2013-11-14,LUZU,BAUSCH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MACITENTAN,NDA204410,NDA,2013,2013-10-18,OPSUMIT,ACTELION,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MIPOMERSEN,NDA203568,NDA,2013,2013-01-29,KYNAMRO,KASTLE THERAPS LLC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+OBINUTUZUMAB,BLA125486,BLA,2013,2013-11-01,GAZYVA,GENENTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+OSPEMIFENE,NDA203505,NDA,2013,2013-02-26,OSPHENA,DUCHESNAY,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+POMALIDOMIDE,NDA204026,NDA,2013,2013-02-08,POMALYST,BRISTOL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RADIUM RA 223 DICHLORIDE,NDA203971,NDA,2013,2013-05-15,XOFIGO,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RIOCIGUAT,NDA204819,NDA,2013,2013-10-08,ADEMPAS,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SIMEPREVIR,NDA205123,NDA,2013,2013-11-22,OLYSIO,JANSSEN PRODS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SOFOSBUVIR,NDA204671,NDA,2013,2013-12-06,SOVALDI,GILEAD SCIENCES INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TECHNETIUM TC 99M TILMANOCEPT,NDA202207,NDA,2013,2013-03-13,LYMPHOSEEK KIT,CARDINAL HEALTH 414,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+TRAMETINIB DIMETHYL SULFOXIDE,NDA204114,NDA,2013,2013-05-29,MEKINIST,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+UMECLIDINIUM,NDA203975,NDA,2013,2013-12-18,ANORO ELLIPTA,GLAXOSMITHKLINE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+VILANTEROL,NDA204275,NDA,2013,2013-05-10,BREO ELLIPTA,GLAXO GRP LTD,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VORTIOXETINE,NDA204447,NDA,2013,2013-09-30,TRINTELLIX,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ALBIGLUTIDE,BLA125431,BLA,2014,2014-04-15,TANZEUM,GLAXOSMITHKLINE LLC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+APREMILAST,NDA205437,NDA,2014,2014-03-21,OTEZLA,AMGEN INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BELINOSTAT,NDA206256,NDA,2014,2014-07-03,BELEODAQ,ACROTECH BIOPHARMA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BLINATUMOMAB,BLA125557,BLA,2014,2014-12-03,BLINCYTO,AMGEN,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CEFTOLOZANE,NDA206829,NDA,2014,2014-12-19,ZERBAXA,CUBIST PHARMS LLC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+CERITINIB,NDA205755,NDA,2014,2014-04-29,ZYKADIA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DALBAVANCIN,NDA021883,NDA,2014,2014-05-23,DALVANCE,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DAPAGLIFLOZIN,NDA202293,NDA,2014,2014-01-08,FARXIGA,ASTRAZENECA AB,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DASABUVIR,NDA206619,NDA,2014,2014-12-19,VIEKIRA PAK (COPACKAGED),ABBVIE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+DROXIDOPA,NDA203202,NDA,2014,2014-02-18,NORTHERA,LUNDBECK NA LTD,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DULAGLUTIDE,BLA125469,BLA,2014,2014-09-18,TRULICITY,ELI LILLY AND CO,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+EFINACONAZOLE,NDA203567,NDA,2014,2014-06-06,JUBLIA,BAUSCH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELIGLUSTAT,NDA205494,NDA,2014,2014-08-19,CERDELGA,GENZYME CORP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELOSULFASE ALFA,BLA125460,BLA,2014,2014-02-14,VIMIZIM,BIOMARIN PHARM,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+EMPAGLIFLOZIN,NDA204629,NDA,2014,2014-08-01,JARDIANCE,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FINAFLOXACIN,NDA206307,NDA,2014,2014-12-17,XTORO,FONSECA BIOSCIENCES,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FLORBETABEN F 18,NDA204677,NDA,2014,2014-03-19,NEURACEQ,LANTHEUS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IDELALISIB,NDA205858,NDA,2014,2014-07-23,ZYDELIG,GILEAD SCIENCES INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LEDIPASVIR,NDA205834,NDA,2014,2014-10-10,HARVONI,GILEAD SCIENCES INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+METRELEPTIN,BLA125390,BLA,2014,2014-02-24,MYALEPT,CHIESI FARMACEUTICI SPA,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+MILTEFOSINE,NDA204684,NDA,2014,2014-03-19,IMPAVIDO,KNIGHT THERAPS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NALOXEGOL,NDA204760,NDA,2014,2014-09-16,MOVANTIK,AVERITAS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NETUPITANT,NDA205718,NDA,2014,2014-10-10,AKYNZEO,HELSINN HLTHCARE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+NINTEDANIB ESYLATE,NDA205832,NDA,2014,2014-10-15,OFEV,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NIVOLUMAB,BLA125554,BLA,2014,2014-12-22,OPDIVO,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+OLAPARIB,NDA206162,NDA,2014,2014-12-19,LYNPARZA,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OLODATEROL,NDA203108,NDA,2014,2014-07-31,STRIVERDI RESPIMAT,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OMBITASVIR,NDA206619,NDA,2014,2014-12-19,VIEKIRA PAK (COPACKAGED),ABBVIE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+ORITAVANCIN,NDA206334,NDA,2014,2014-08-06,ORBACTIV,MELINTA THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PARITAPREVIR,NDA206619,NDA,2014,2014-12-19,VIEKIRA PAK (COPACKAGED),ABBVIE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+PEGINTERFERON BETA 1A,BLA125499,BLA,2014,2014-08-15,PLEGRIDY,BIOGEN IDEC INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+PEMBROLIZUMAB,BLA125514,BLA,2014,2014-09-04,KEYTRUDA,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+PERAMIVIR,NDA206426,NDA,2014,2014-12-19,RAPIVAB,BIOCRYST,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PIRFENIDONE,NDA022535,NDA,2014,2014-10-15,ESBRIET,LEGACY,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RAMUCIRUMAB,BLA125477,BLA,2014,2014-04-21,CYRAMZA,ELI LILLY AND CO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SILTUXIMAB,BLA125496,BLA,2014,2014-04-23,SYLVANT,"RECORDATI RARE DISEASES, INC.",Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SULFUR HEXAFLUORIDE LIPID TYPE A MICROSPHERES,NDA203684,NDA,2014,2014-10-10,LUMASON,BRACCO,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+SUVOREXANT,NDA204569,NDA,2014,2014-08-13,BELSOMRA,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TASIMELTEON,NDA205677,NDA,2014,2014-01-31,HETLIOZ,VANDA PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TAVABOROLE,NDA204427,NDA,2014,2014-07-07,KERYDIN,ANACOR PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TEDIZOLID,NDA205435,NDA,2014,2014-06-20,SIVEXTRO,CUBIST PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VEDOLIZUMAB,BLA125476,BLA,2014,2014-05-20,ENTYVIO,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+VORAPAXAR,NDA204886,NDA,2014,2014-05-08,ZONTIVITY,KEY THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ALECTINIB,NDA208434,NDA,2015,2015-12-11,ALECENSA,HOFFMANN-LA ROCHE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ALIROCUMAB,BLA125559,BLA,2015,2015-07-24,PRALUENT,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ARIPIPRAZOLE LAUROXIL,NDA207533,NDA,2015,2015-10-05,ARISTADA,ALKERMES INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ASFOTASE ALFA,BLA125513,BLA,2015,2015-10-23,STRENSIQ,ALEXION PHARM,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+AVIBACTAM,NDA206494,NDA,2015,2015-02-25,AVYCAZ,ABBVIE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+BREXPIPRAZOLE,NDA205422,NDA,2015,2015-07-10,REXULTI,OTSUKA,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CANGRELOR,NDA204958,NDA,2015,2015-06-22,KENGREAL,CHIESI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CARIPRAZINE,NDA204370,NDA,2015,2015-09-17,VRAYLAR,ABBVIE,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CHOLIC ACID,NDA205750,NDA,2015,2015-03-17,CHOLBAM,MIRUM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+COBIMETINIB,NDA206192,NDA,2015,2015-11-10,COTELLIC,GENENTECH INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DACLATASVIR,NDA206843,NDA,2015,2015-07-24,DAKLINZA,BRISTOL-MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+DARATUMUMAB,BLA761036,BLA,2015,2015-11-16,DARZALEX,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+DEOXYCHOLIC ACID,NDA206333,NDA,2015,2015-04-29,KYBELLA,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DINUTUXIMAB,BLA125516,BLA,2015,2015-03-10,UNITUXIN,UNITED THERAP,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+EDOXABAN,NDA206316,NDA,2015,2015-01-08,SAVAYSA,DAIICHI SANKYO INC,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELOTUZUMAB,BLA761035,BLA,2015,2015-11-30,EMPLICITI,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ELUXADOLINE,NDA206940,NDA,2015,2015-05-27,VIBERZI,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+EVOLOCUMAB,BLA125522,BLA,2015,2015-08-27,REPATHA,AMGEN INC,Efficacy ; Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+FLIBANSERIN,NDA022526,NDA,2015,2015-08-18,ADDYI,SPROUT PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IDARUCIZUMAB,BLA761025,BLA,2015,2015-10-16,PRAXBIND,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+INSULIN DEGLUDEC,BLA203314,BLA,2015,2015-09-25,TRESIBA,NOVO,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+ISAVUCONAZONIUM,NDA207500,NDA,2015,2015-03-06,CRESEMBA,ASTELLAS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IVABRADINE,NDA206143,NDA,2015,2015-04-15,CORLANOR,AMGEN INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IXAZOMIB,NDA208462,NDA,2015,2015-11-20,NINLARO,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LENVATINIB,NDA206947,NDA,2015,2015-02-13,LENVIMA,EISAI INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LESINURAD,NDA207988,NDA,2015,2015-12-22,ZURAMPIC,IRONWOOD PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUMACAFTOR,NDA206038,NDA,2015,2015-07-02,ORKAMBI,VERTEX PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MEPOLIZUMAB,BLA125526,BLA,2015,2015-11-04,NUCALA,GLAXOSMITHKLINE LLC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+NECITUMUMAB,BLA125547,BLA,2015,2015-11-24,PORTRAZZA,ELI LILLY CO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+OSIMERTINIB,NDA208065,NDA,2015,2015-11-13,TAGRISSO,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PALBOCICLIB,NDA207103,NDA,2015,2015-02-03,IBRANCE,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PANOBINOSTAT,NDA205353,NDA,2015,2015-02-23,FARYDAK,SECURA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PARATHYROID HORMONE,BLA125511,BLA,2015,2015-01-23,NATPARA,NPS PHARMS INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+PATIROMER,NDA205739,NDA,2015,2015-10-21,VELTASSA,VIFOR PHARMA,Type 1 - New Molecular Entity,Other,hand-adjudicated: non-absorbed polymeric potassium binder (ChEMBL types polymers as small molecule),validated
+ROLAPITANT,NDA206500,NDA,2015,2015-09-01,VARUBI,TERSERA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SACUBITRIL,NDA207620,NDA,2015,2015-07-07,ENTRESTO,NOVARTIS PHARMS CORP,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+SEBELIPASE ALFA,BLA125561,BLA,2015,2015-12-08,KANUMA,ALEXION PHARM,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+SECUKINUMAB,BLA125504,BLA,2015,2015-01-21,COSENTYX,NOVARTIS PHARMS CORP,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SELEXIPAG,NDA207947,NDA,2015,2015-12-21,UPTRAVI,ACTELION,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SONIDEGIB,NDA205266,NDA,2015,2015-07-24,ODOMZO,SUN PHARM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SUGAMMADEX,NDA022225,NDA,2015,2015-12-15,BRIDION,MSD SUB MERCK,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+TENOFOVIR ALAFENAMIDE,NDA207561,NDA,2015,2015-11-05,GENVOYA,GILEAD SCIENCES INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+TIPIRACIL,NDA207981,NDA,2015,2015-09-22,LONSURF,TAIHO ONCOLOGY,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+TRABECTEDIN,NDA207953,NDA,2015,2015-10-23,YONDELIS,JANSSEN PRODS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+URIDINE TRIACETATE,NDA208169,NDA,2015,2015-09-04,XURIDEN,BTG INTL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ATEZOLIZUMAB,BLA761034,BLA,2016,2016-05-18,TECENTRIQ,GENENTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+BEZLOTOXUMAB,BLA761046,BLA,2016,2016-10-21,ZINPLAVA,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+BRIVARACETAM,NDA205836,NDA,2016,2016-02-18,BRIVIACT,UCB INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CRISABOROLE,NDA207695,NDA,2016,2016-12-14,EUCRISA,ANACOR PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DACLIZUMAB,BLA761029,BLA,2016,2016-05-27,ZINBRYTA,BIOGEN,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+DEFIBROTIDE,NDA208114,NDA,2016,2016-03-30,DEFITELIO,JAZZ PHARMS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+ELBASVIR,NDA208261,NDA,2016,2016-01-28,ZEPATIER,MSD SUB MERCK,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+ETEPLIRSEN,NDA206488,NDA,2016,2016-09-19,EXONDYS 51,SAREPTA THERAPS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+FLUCICLOVINE F 18,NDA208054,NDA,2016,2016-05-27,AXUMIN,BLUE EARTH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GALLIUM DOTATATE GA 68,NDA208547,NDA,2016,2016-06-01,NETSPOT,NOVARTIS,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+GRAZOPREVIR,NDA208261,NDA,2016,2016-01-28,ZEPATIER,MSD SUB MERCK,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+IXEKIZUMAB,BLA125521,BLA,2016,2016-03-22,TALTZ,ELI LILLY AND CO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+LIFITEGRAST,NDA208073,NDA,2016,2016-07-11,XIIDRA,BAUSCH AND LOMB INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LIXISENATIDE,BLA208471,BLA,2016,2016-07-27,ADLYXIN,SANOFI-AVENTIS US,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+NUSINERSEN,NDA209531,NDA,2016,2016-12-23,SPINRAZA,BIOGEN,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+OBETICHOLIC ACID,NDA207999,NDA,2016,2016-05-27,OCALIVA,INTERCEPT,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OBILTOXAXIMAB,BLA125509,BLA,2016,2016-03-18,ANTHIM,ELUSYS THERAPEUTICS INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+OLARATUMAB,BLA761038,BLA,2016,2016-10-19,LARTRUVO,ELI LILLY AND CO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+PIMAVANSERIN,NDA207318,NDA,2016,2016-04-29,NUPLAZID,ACADIA PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RESLIZUMAB,BLA761033,BLA,2016,2016-03-23,CINQAIR,TEVA RESPIRATORY LLC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+RUCAPARIB CAMSYLATE,NDA209115,NDA,2016,2016-12-19,RUBRACA,PHARMAAND,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VELPATASVIR,NDA208341,NDA,2016,2016-06-28,EPCLUSA,GILEAD SCIENCES INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+VENETOCLAX,NDA208573,NDA,2016,2016-04-11,VENCLEXTA,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ABALOPARATIDE,NDA208743,NDA,2017,2017-04-28,TYMLOS,RADIUS,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+ABEMACICLIB,NDA208716,NDA,2017,2017-09-28,VERZENIO,ELI LILLY AND CO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ACALABRUTINIB,NDA210259,NDA,2017,2017-10-31,CALQUENCE,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ANGIOTENSIN II,NDA209360,NDA,2017,2017-12-21,GIAPREZA,LA JOLLA PHARMA,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+AVELUMAB,BLA761049,BLA,2017,2017-03-23,BAVENCIO,EMD SERONO INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+BENRALIZUMAB,BLA761070,BLA,2017,2017-11-14,FASENRA,ASTRAZENECA AB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+BENZNIDAZOLE,NDA209570,NDA,2017,2017-08-29,BENZNIDAZOLE,CHEMO RESEARCH SL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BETRIXABAN,NDA208383,NDA,2017,2017-06-23,BEVYXXA,PORTOLA PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BRIGATINIB,NDA208772,NDA,2017,2017-04-28,ALUNBRIG,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BRODALUMAB,BLA761032,BLA,2017,2017-02-15,SILIQ,VALEANT LUXEMBOURG,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CERLIPONASE ALFA,BLA761052,BLA,2017,2017-04-27,BRINEURA,BIOMARIN PHARM,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+COPANLISIB,NDA209936,NDA,2017,2017-09-14,ALIQOPA,BAYER HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+DEFLAZACORT,NDA208684,NDA,2017,2017-02-09,EMFLAZA,PTC THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DELAFLOXACIN,NDA208610,NDA,2017,2017-06-19,BAXDELA,MELINTA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DEUTETRABENAZINE,NDA208082,NDA,2017,2017-04-03,AUSTEDO,TEVA BRANDED PHARM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DUPILUMAB,BLA761055,BLA,2017,2017-03-28,DUPIXENT,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+DURVALUMAB,BLA761069,BLA,2017,2017-05-01,IMFINZI,ASTRAZENECA UK LTD,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+EDARAVONE,NDA209176,NDA,2017,2017-05-05,RADICAVA,SHIONOGI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+EMICIZUMAB,BLA761083,BLA,2017,2017-11-16,HEMLIBRA,GENENTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ENASIDENIB,NDA209606,NDA,2017,2017-08-01,IDHIFA,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ERTUGLIFLOZIN,NDA209803,NDA,2017,2017-12-19,STEGLATRO,MSD SUB MERCK,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ETELCALCETIDE,NDA208325,NDA,2017,2017-02-07,PARSABIV,KAI PHARMS INC,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+GLECAPREVIR,NDA209394,NDA,2017,2017-08-03,MAVYRET,ABBVIE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+GUSELKUMAB,BLA761061,BLA,2017,2017-07-13,TREMFYA,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+INOTUZUMAB OZOGAMICIN,BLA761040,BLA,2017,2017-08-17,BESPONSA,WYETH PHARMS INC,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+LATANOPROSTENE BUNOD,NDA207795,NDA,2017,2017-11-02,VYZULTA,BAUSCH AND LOMB,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LETERMOVIR,NDA209939,NDA,2017,2017-11-08,PREVYMIS,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MACIMORELIN,NDA205598,NDA,2017,2017-12-20,MACRILEN,AETERNA ZENTARIS,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+MIDOSTAURIN,NDA207997,NDA,2017,2017-04-28,RYDAPT,NOVARTIS,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NALDEMEDINE,NDA208854,NDA,2017,2017-03-23,SYMPROIC,BDSI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NERATINIB,NDA208051,NDA,2017,2017-07-17,NERLYNX,PUMA BIOTECH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NETARSUDIL,NDA208254,NDA,2017,2017-12-18,RHOPRESSA,ALCON LABS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NIRAPARIB,NDA208447,NDA,2017,2017-03-27,ZEJULA,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OCRELIZUMAB,BLA761053,BLA,2017,2017-03-28,OCREVUS,GENENTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+OZENOXACIN,NDA208945,NDA,2017,2017-12-11,XEPI,LNHC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PIBRENTASVIR,NDA209394,NDA,2017,2017-08-03,MAVYRET,ABBVIE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+PLECANATIDE,NDA208745,NDA,2017,2017-01-19,TRULANCE,SALIX,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+RIBOCICLIB,NDA209092,NDA,2017,2017-03-13,KISQALI,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SAFINAMIDE,NDA207145,NDA,2017,2017-03-21,XADAGO,MDD US,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SARILUMAB,BLA761037,BLA,2017,2017-05-22,KEVZARA,SANOFI SYNTHELABO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SECNIDAZOLE,NDA209363,NDA,2017,2017-09-15,SOLOSEC,EVOFEM INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SEMAGLUTIDE,NDA209637,NDA,2017,2017-12-05,OZEMPIC,NOVO,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+TELOTRISTAT ETIPRATE,NDA208794,NDA,2017,2017-02-28,XERMELO,TERSERA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VABORBACTAM,NDA209776,NDA,2017,2017-08-29,VABOMERE,REMPEX,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+VALBENAZINE,NDA209241,NDA,2017,2017-04-11,INGREZZA,NEUROCRINE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VESTRONIDASE ALFA,BLA761047,BLA,2017,2017-11-15,MEPSEVII,ULTRAGENYX PHARM INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+VOXILAPREVIR,NDA209195,NDA,2017,2017-07-18,VOSEVI,GILEAD SCIENCES INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+AMIFAMPRIDINE,NDA208078,NDA,2018,2018-11-28,FIRDAPSE,CATALYST PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+APALUTAMIDE,NDA210951,NDA,2018,2018-02-14,ERLEADA,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AVATROMBOPAG,NDA210238,NDA,2018,2018-05-21,DOPTELET,AKARX INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BALOXAVIR MARBOXIL,NDA210854,NDA,2018,2018-10-24,XOFLUZA,GENENTECH INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BARICITINIB,NDA207924,NDA,2018,2018-05-31,OLUMIANT,ELI LILLY AND CO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BICTEGRAVIR,NDA210251,NDA,2018,2018-02-07,BIKTARVY,GILEAD SCIENCES INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+BINIMETINIB,NDA210498,NDA,2018,2018-06-27,MEKTOVI,ARRAY BIOPHARMA INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BUROSUMAB,BLA761068,BLA,2018,2018-04-17,CRYSVITA,KYOWA KIRIN,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CALASPARGASE PEGOL,BLA761102,BLA,2018,2018-12-20,ASPARLAS,SERVIER PHARMA LLC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+CANNABIDIOL,NDA210365,NDA,2018,2018-06-25,EPIDIOLEX,JAZZ PHARMS RES,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CEMIPLIMAB,BLA761097,BLA,2018,2018-09-28,LIBTAYO,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CENEGERMIN,BLA761094,BLA,2018,2018-08-22,OXERVATE,DOMPE FARMACEUTICI,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+DACOMITINIB,NDA211288,NDA,2018,2018-09-27,VIZIMPRO,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DORAVIRINE,NDA210806,NDA,2018,2018-08-30,PIFELTRO,MSD MERCK CO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DUVELISIB,NDA211155,NDA,2018,2018-09-24,COPIKTRA,SECURA,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELAGOLIX,NDA210450,NDA,2018,2018-07-23,ORILISSA,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELAPEGADEMASE,BLA761092,BLA,2018,2018-10-05,REVCOVI,CHIESI USA INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+EMAPALUMAB,BLA761107,BLA,2018,2018-11-20,GAMIFANT,NOVIMMUNE S.A.,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ENCORAFENIB,NDA210496,NDA,2018,2018-06-27,BRAFTOVI,ARRAY BIOPHARMA INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ERAVACYCLINE,NDA211109,NDA,2018,2018-08-27,XERAVA,TETRAPHASE PHARMS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+ERENUMAB,BLA761077,BLA,2018,2018-05-17,AIMOVIG,AMGEN INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+FISH OIL TRIGLYCERIDES,NDA210589,NDA,2018,2018-07-27,OMEGAVEN,FRESENIUS KABI USA,Type 1 - New Molecular Entity and Type 4 - New Combination,Other,carried from validated 2006-2025 set,validated
+FOSNETUPITANT,NDA210493,NDA,2018,2018-04-19,AKYNZEO,HELSINN HLTHCARE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+FOSTAMATINIB,NDA209299,NDA,2018,2018-04-17,TAVALISSE,RIGEL PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FREMANEZUMAB,BLA761089,BLA,2018,2018-09-14,AJOVY,TEVA PHARMS USA,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+GALCANEZUMAB,BLA761063,BLA,2018,2018-09-27,EMGALITY,ELI LILLY AND CO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+GILTERITINIB,NDA211349,NDA,2018,2018-11-28,XOSPATA,ASTELLAS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GLASDEGIB,NDA210656,NDA,2018,2018-11-21,DAURISMO,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IBALIZUMAB,BLA761065,BLA,2018,2018-03-06,TROGARZO,THERATECHNOLOGIES,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+INOTERSEN,NDA211172,NDA,2018,2018-10-05,TEGSEDI,AKCEA THERAPS,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+IVOSIDENIB,NDA211192,NDA,2018,2018-07-20,TIBSOVO,SERVIER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LANADELUMAB,BLA761090,BLA,2018,2018-08-23,TAKHZYRO,DYAX CORP.,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+LAROTRECTINIB,NDA210861,NDA,2018,2018-11-26,VITRAKVI,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LOFEXIDINE,NDA209229,NDA,2018,2018-05-16,LUCEMYRA,BIOCORRX PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LORLATINIB,NDA210868,NDA,2018,2018-11-02,LORBRENA,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUSUTROMBOPAG,NDA210923,NDA,2018,2018-07-31,MULPLETA,VANCOCIN ITALIA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUTETIUM LU 177 DOTATATE,NDA208700,NDA,2018,2018-01-26,LUTATHERA,AAA USA INC,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+MIGALASTAT,NDA208623,NDA,2018,2018-08-10,GALAFOLD,AMICUS THERAP US,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MOGAMULIZUMAB,BLA761051,BLA,2018,2018-08-08,POTELIGEO,KYOWA KIRIN,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+MOXETUMOMAB PASUDOTOX,BLA761104,BLA,2018,2018-09-13,LUMOXITI,INNATE PHARMA,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+MOXIDECTIN,NDA210867,NDA,2018,2018-06-13,MOXIDECTIN,MDGH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OMADACYCLINE,NDA209816,NDA,2018,2018-10-02,NUZYRA,PARATEK PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PATISIRAN,NDA210922,NDA,2018,2018-08-10,ONPATTRO,ALNYLAM PHARMS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+PEGVALIASE,BLA761079,BLA,2018,2018-05-24,PALYNZIQ,BIOMARIN PHARM,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+PLAZOMICIN,NDA210303,NDA,2018,2018-06-25,ZEMDRI,CIPLA USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PRUCALOPRIDE,NDA210166,NDA,2018,2018-12-14,MOTEGRITY,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RAVULIZUMAB,BLA761108,BLA,2018,2018-12-21,ULTOMIRIS,ALEXION PHARM,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+REVEFENACIN,NDA210598,NDA,2018,2018-11-09,YUPELRI,MYLAN IRELAND LTD,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RIFAMYCIN,NDA210910,NDA,2018,2018-11-16,AEMCOLO,COSMO TECHNOLOGIES,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SARECYCLINE,NDA209521,NDA,2018,2018-10-01,SEYSARA,ALMIRALL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SEGESTERONE,NDA209627,NDA,2018,2018-08-10,ANNOVERA,MAYNE PHARMA,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+STIRIPENTOL,NDA206709,NDA,2018,2018-08-20,DIACOMIT,BIOCODEX SA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TAFENOQUINE,NDA210795,NDA,2018,2018-07-20,KRINTAFEL,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TAGRAXOFUSP,BLA761116,BLA,2018,2018-12-21,ELZONRIS,STEMLINE THERAPEUTICS INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+TALAZOPARIB,NDA211651,NDA,2018,2018-10-16,TALZENNA,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TECOVIRIMAT,NDA208627,NDA,2018,2018-07-13,TPOXX,SIGA TECHNOLOGIES,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TEZACAFTOR,NDA210491,NDA,2018,2018-02-12,SYMDEKO (COPACKAGED),VERTEX PHARMS INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+TILDRAKIZUMAB,BLA761067,BLA,2018,2018-03-20,ILUMYA,SUN PHARMA GLOBAL,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ZIRCONIUM CYCLOSILICATE,NDA207078,NDA,2018,2018-05-18,LOKELMA,ASTRAZENECA,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+AFAMELANOTIDE,NDA210797,NDA,2019,2019-10-08,SCENESSE,CLIVUNEL INC,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+AIR POLYMER TYPE A,NDA212279,NDA,2019,2019-11-07,EXEM FOAM KIT,GISKIT,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+ALPELISIB,NDA212526,NDA,2019,2019-05-24,PIQRAY,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BREMELANOTIDE,NDA210557,NDA,2019,2019-06-21,VYLEESI (AUTOINJECTOR),COSETTE,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+BREXANOLONE,NDA211371,NDA,2019,2019-03-19,ZULRESSO,SAGE THERAP SUPERNUS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BRILLIANT BLUE G,NDA209569,NDA,2019,2019-12-20,TISSUEBLUE,DUTCH OPHTHALMIC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BROLUCIZUMAB,BLA761125,BLA,2019,2019-10-07,BEOVU,NOVARTIS PHARMS CORP,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CAPLACIZUMAB,BLA761112,BLA,2019,2019-02-06,CABLIVI,ABLYNX NV,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CEFIDEROCOL,NDA209445,NDA,2019,2019-11-14,FETROJA,SHIONOGI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CENOBAMATE,NDA212839,NDA,2019,2019-11-21,XCOPRI,SK LIFE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CRIZANLIZUMAB,BLA761128,BLA,2019,2019-11-15,ADAKVEO,NOVARTIS PHARMS CORP,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+DAROLUTAMIDE,NDA212099,NDA,2019,2019-07-30,NUBEQA,BAYER HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELEXACAFTOR,NDA212273,NDA,2019,2019-10-21,TRIKAFTA (COPACKAGED),VERTEX PHARMS INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+ENFORTUMAB VEDOTIN,BLA761137,BLA,2019,2019-12-18,PADCEV,ASTELLAS,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+ENTRECTINIB,NDA212725,NDA,2019,2019-08-15,ROZLYTREK,GENENTECH INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ERDAFITINIB,NDA212018,NDA,2019,2019-04-12,BALVERSA,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FAM TRASTUZUMAB DERUXTECAN,BLA761139,BLA,2019,2019-12-20,ENHERTU,DAIICHI SANKYO,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+FEDRATINIB,NDA212327,NDA,2019,2019-08-16,INREBIC,BRISTOL-MYERS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FERRIC MALTOL,NDA212320,NDA,2019,2019-07-25,ACCRUFER,SHIELD TX,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FLUORODOPA F 18,NDA200655,NDA,2019,2019-10-10,FLUORODOPA F18,FEINSTEIN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GALLIUM GA 68 EDOTREOTIDE,NDA210828,NDA,2019,2019-08-21,GALLIUM GA 68 EDOTREOTIDE,UIHC PET IMAGING,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+GIVOSIRAN,NDA212194,NDA,2019,2019-11-20,GIVLAARI,ALNYLAM PHARMS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+GOLODIRSEN,NDA211970,NDA,2019,2019-12-12,VYONDYS 53,SAREPTA THERAPS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+ISTRADEFYLLINE,NDA022075,NDA,2019,2019-08-27,NOURIANZ,KYOWA KIRIN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LASMIDITAN,NDA211280,NDA,2019,2019-10-11,REYVOW,ELI LILLY AND CO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LEFAMULIN,NDA211672,NDA,2019,2019-08-19,XENLETA,HONG KONG,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LEMBOREXANT,NDA212028,NDA,2019,2019-12-20,DAYVIGO,EISAI INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUMATEPERONE,NDA209500,NDA,2019,2019-12-20,CAPLYTA,INTRA-CELLULAR,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUSPATERCEPT,BLA761136,BLA,2019,2019-11-08,REBLOZYL,CELGENE CORP,Efficacy ; Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+PEXIDARTINIB,NDA211810,NDA,2019,2019-08-02,TURALIO,DAIICHI SANKYO INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PITOLISANT,NDA211150,NDA,2019,2019-08-14,WAKIX,HARMONY,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+POLATUZUMAB VEDOTIN,BLA761121,BLA,2019,2019-06-10,POLIVY,GENENTECH,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+PRABOTULINUMTOXINA,BLA761085,BLA,2019,2019-02-01,JEUVEAU,EVOLUS INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+PRETOMANID,NDA212862,NDA,2019,2019-08-14,PRETOMANID,MYLAN IRELAND LTD,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RELEBACTAM,NDA212819,NDA,2019,2019-07-16,RECARBRIO,MSD MERCK CO,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+RISANKIZUMAB,BLA761105,BLA,2019,2019-04-23,SKYRIZI,ABBVIE INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ROMOSOZUMAB,BLA761062,BLA,2019,2019-04-09,EVENITY,AMGEN INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SELINEXOR,NDA212306,NDA,2019,2019-07-03,XPOVIO,KARYOPHARM THERAPS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SIPONIMOD,NDA209884,NDA,2019,2019-03-26,MAYZENT,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SOLRIAMFETOL,NDA211230,NDA,2019,2019-03-20,SUNOSI,AXSOME MALTA,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TAFAMIDIS,NDA211996,NDA,2019,2019-05-03,VYNDAQEL,FOLDRX PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TENAPANOR,NDA211801,NDA,2019,2019-09-12,IBSRELA,ARDELYX INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TRICLABENDAZOLE,NDA208711,NDA,2019,2019-02-13,EGATEN,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TRIFAROTENE,NDA211527,NDA,2019,2019-10-04,AKLIEF,GALDERMA LABS LP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+UBROGEPANT,NDA211765,NDA,2019,2019-12-23,UBRELVY,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+UPADACITINIB,NDA211675,NDA,2019,2019-08-16,RINVOQ,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VOXELOTOR,NDA213137,NDA,2019,2019-11-25,OXBRYTA,GLOBAL BLOOD THERAPS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ZANUBRUTINIB,NDA213217,NDA,2019,2019-11-14,BRUKINSA,BEONE MEDICINES USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ABAMETAPIR,NDA206966,NDA,2020,2020-07-24,XEGLYZE,LNHC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AMISULPRIDE,NDA209510,NDA,2020,2020-02-26,BARHEMSYS,LXO IRELAND,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ANSUVIMAB,BLA761172,BLA,2020,2020-12-21,EBANGA,RIDGEBACK BIOTHERAPEUTICS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ARTESUNATE,NDA213036,NDA,2020,2020-05-26,ARTESUNATE,AMIVAS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ATOLTIVIMAB,BLA761169,BLA,2020,2020-10-14,INMAZEB,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+AVAPRITINIB,NDA212608,NDA,2020,2020-01-09,AYVAKIT,BLUEPRINT MEDICINES,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BEMPEDOIC ACID,NDA211616,NDA,2020,2020-02-21,NEXLETOL,ESPERION THERAPS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BEROTRALSTAT,NDA214094,NDA,2020,2020-12-03,ORLADEYO,BIOCRYST,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+CAPMATINIB,NDA213591,NDA,2020,2020-05-06,TABRECTA,NOVARTIS PHARM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CEDAZURIDINE,NDA212576,NDA,2020,2020-07-07,INQOVI,TAIHO ONCOLOGY,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+CLASCOTERONE,NDA213433,NDA,2020,2020-08-26,WINLEVI,SUN PHARM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+COPPER CU 64 DOTATATE,NDA213227,NDA,2020,2020-09-03,DETECTNET,CURIUM,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+EPTINEZUMAB,BLA761119,BLA,2020,2020-02-21,VYEPTI,"LUNDBECK SEATTLE BIOPHARMACEUTICALS, INC.",Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+FLORTAUCIPIR F 18,NDA212123,NDA,2020,2020-05-28,TAUVID,AVID RADIOPHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FLUOROESTRADIOL F 18,NDA212155,NDA,2020,2020-05-20,CERIANNA,GE HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FOSTEMSAVIR,NDA212950,NDA,2020,2020-07-02,RUKOBIA,VIIV HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GALLIUM GA 68 GOZETOTIDE,NDA212642,NDA,2020,2020-12-01,GALLIUM GA 68 GOZETOTIDE,UNIV CA LOS ANGELES,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+INEBILIZUMAB,BLA761142,BLA,2020,2020-06-11,UPLIZNA,VIELA BIO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ISATUXIMAB,BLA761113,BLA,2020,2020-03-02,SARCLISA,SANOFI AVENTIS US,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+LACTITOL,NDA211281,NDA,2020,2020-02-12,PIZENSY,BRAINTREE LABS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LONAFARNIB,NDA213969,NDA,2020,2020-11-20,ZOKINVY,SENTYNL THERAPS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUMASIRAN,NDA214103,NDA,2020,2020-11-23,OXLUMO,ALNYLAM PHARMS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+LURBINECTEDIN,NDA213702,NDA,2020,2020-06-15,ZEPZELCA,JAZZ,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MAFTIVIMAB,BLA761169,BLA,2020,2020-10-14,INMAZEB,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+MARGETUXIMAB,BLA761150,BLA,2020,2020-12-16,MARGENZA,MACROGENICS INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+NAXITAMAB,BLA761171,BLA,2020,2020-11-25,DANYELZA,Y-MABS THERAPEUTICS INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+NIFURTIMOX,NDA213464,NDA,2020,2020-08-06,LAMPIT,BAYER HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ODESIVIMAB,BLA761169,BLA,2020,2020-10-14,INMAZEB,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+OLICERIDINE,NDA210730,NDA,2020,2020-08-07,OLINVYK,TREVENA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OPICAPONE,NDA212489,NDA,2020,2020-04-24,ONGENTYS,AMNEAL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OSILODROSTAT,NDA212801,NDA,2020,2020-03-06,ISTURISA,RECORDATI RARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OZANIMOD,NDA209899,NDA,2020,2020-03-25,ZEPOSIA,BRISTOL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PEMIGATINIB,NDA213736,NDA,2020,2020-04-17,PEMAZYRE,INCYTE CORP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PRALSETINIB,NDA213721,NDA,2020,2020-09-04,GAVRETO,RIGEL PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RELUGOLIX,NDA214621,NDA,2020,2020-12-18,ORGOVYX,SUMITOMO PHARMA AM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+REMDESIVIR,NDA214787,NDA,2020,2020-10-22,VEKLURY,GILEAD SCIENCES INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+REMIMAZOLAM,NDA212295,NDA,2020,2020-07-02,BYFAVO,ACACIA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RIMEGEPANT,NDA212728,NDA,2020,2020-02-27,NURTEC ODT,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RIPRETINIB,NDA213973,NDA,2020,2020-05-15,QINLOCK,DECIPHERA PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RISDIPLAM,NDA213535,NDA,2020,2020-08-07,EVRYSDI,GENENTECH INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SACITUZUMAB GOVITECAN,BLA761115,BLA,2020,2020-04-22,TRODELVY,IMMUNOMEDICS INC,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+SATRALIZUMAB,BLA761149,BLA,2020,2020-08-14,ENSPRYNG,GENENTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SELPERCATINIB,NDA213246,NDA,2020,2020-05-08,RETEVMO,ELI LILLY AND CO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SELUMETINIB,NDA213756,NDA,2020,2020-04-10,KOSELUGO,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SETMELANOTIDE,NDA213793,NDA,2020,2020-11-25,IMCIVREE,RHYTHM,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+SOMAPACITAN,BLA761156,BLA,2020,2020-08-28,SOGROYA,NOVO NORDISK INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+TAFASITAMAB,BLA761163,BLA,2020,2020-07-31,MONJUVI,MORPHOSYS US INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TAZEMETOSTAT,NDA211723,NDA,2020,2020-01-23,TAZVERIK,EPIZYME INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TEPROTUMUMAB,BLA761143,BLA,2020,2020-01-21,TEPEZZA,HORIZON THERAPEUTICS IRELAND,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TIRBANIBULIN,NDA213189,NDA,2020,2020-12-14,KLISYRI,ALMIRALL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TRIHEPTANOIN,NDA213687,NDA,2020,2020-06-30,DOJOLVI,ULTRAGENYX PHARM INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TUCATINIB,NDA213411,NDA,2020,2020-04-17,TUKYSA,SEAGEN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VIBEGRON,NDA213006,NDA,2020,2020-12-23,GEMTESA,SUMITOMO PHARMA AM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VILTOLARSEN,NDA212154,NDA,2020,2020-08-12,VILTEPSO,NIPPON SHINYAKU,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+ADUCANUMAB,BLA761178,BLA,2021,2021-06-07,ADUHELM,BIOGEN INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+AMIVANTAMAB,BLA761210,BLA,2021,2021-05-21,RYBREVANT,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ANIFROLUMAB,BLA761123,BLA,2021,2021-07-30,SAPHNELO,ASTRAZENECA AB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ASCIMINIB,NDA215358,NDA,2021,2021-10-29,SCEMBLIX,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ASPARAGINASE ERWINIA CHRYSANTHEMI,BLA761179,BLA,2021,2021-06-30,RYLAZE,JAZZ PHARMS,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ATOGEPANT,NDA215206,NDA,2021,2021-09-28,QULIPTA,ABBVIE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AVACOPAN,NDA214487,NDA,2021,2021-10-07,TAVNEOS,CHEMOCENTRYX,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AVALGLUCOSIDASE ALFA,BLA761194,BLA,2021,2021-08-06,NEXVIAZYME,GENZYME CORP,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+BELUMOSUDIL,NDA214783,NDA,2021,2021-07-16,REZUROCK,KADMON PHARMS LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BELZUTIFAN,NDA215383,NDA,2021,2021-08-13,WELIREG,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CABOTEGRAVIR,NDA212888,NDA,2021,2021-01-21,CABENUVA KIT,VIIV HLTHCARE,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+CASIMERSEN,NDA213026,NDA,2021,2021-02-25,AMONDYS 45,SAREPTA THERAPS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+DASIGLUCAGON,NDA214231,NDA,2021,2021-03-22,ZEGALOGUE|ZEGALOGUE (AUTOINJECTOR),ZEALAND PHARMA,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+DIFELIKEFALIN,NDA214916,NDA,2021,2021-08-23,KORSUVA,VIFOR INTL,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+DOSTARLIMAB,BLA761174,BLA,2021,2021-04-22,JEMPERLI,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+EFGARTIGIMOD ALFA,BLA761195,BLA,2021,2021-12-17,VYVGART,ARGENX BV,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ESTETROL,NDA214154,NDA,2021,2021-04-15,NEXTSTELLIS,MAYNE PHARMA,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+EVINACUMAB,BLA761181,BLA,2021,2021-02-11,EVKEEZA,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+FEXINIDAZOLE,NDA214429,NDA,2021,2021-07-16,FEXINIDAZOLE,SANOFI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FINERENONE,NDA215341,NDA,2021,2021-07-09,KERENDIA,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FOSDENOPTERIN,NDA214018,NDA,2021,2021-02-26,NULIBRY,SENTYNL THERAPS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IBREXAFUNGERP,NDA214900,NDA,2021,2021-06-01,BREXAFEMME,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+INCLISIRAN,NDA214012,NDA,2021,2021-12-22,LEQVIO,NOVARTIS,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+INFIGRATINIB,NDA214622,NDA,2021,2021-05-28,TRUSELTIQ,HELSINN HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LONAPEGSOMATROPIN,BLA761177,BLA,2021,2021-08-25,SKYTROFA,ASCENDIS PHARMA ENCOCRINOLOGY DIV A/S,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+LONCASTUXIMAB TESIRINE,BLA761196,BLA,2021,2021-04-23,ZYNLONTA,ADC THERAPEUTICS SA,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+MARALIXIBAT,NDA214662,NDA,2021,2021-09-29,LIVMARLI,MIRUM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MARIBAVIR,NDA215596,NDA,2021,2021-11-23,LIVTENCITY,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MOBOCERTINIB,NDA215310,NDA,2021,2021-09-15,EXKIVITY,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ODEVIXIBAT,NDA215498,NDA,2021,2021-07-20,BYLVAY,IPSEN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PAFOLACIANINE,NDA214907,NDA,2021,2021-11-29,CYTALUX,ON TARGET LABS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PEGCETACOPLAN,NDA215014,NDA,2021,2021-05-14,EMPAVELI,APELLIS PHARMS,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+PIFLUFOLASTAT F 18,NDA214793,NDA,2021,2021-05-26,PYLARIFY,PROGENICS PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PONESIMOD,NDA213498,NDA,2021,2021-03-18,PONVORY,VANDA PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ROPEGINTERFERON ALFA 2B,BLA761166,BLA,2021,2021-11-12,BESREMI,PHARMAESSENTIA CORP,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+SAMIDORPHAN L,NDA213378,NDA,2021,2021-05-28,LYBALVI,ALKERMES INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+SERDEXMETHYLPHENIDATE,NDA212994,NDA,2021,2021-03-02,AZSTARYS,COMMAVE SUB,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+SOTORASIB,NDA214665,NDA,2021,2021-05-28,LUMAKRAS,AMGEN INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TEPOTINIB,NDA214096,NDA,2021,2021-02-03,TEPMETKO,EMD SERONO INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TEZEPELUMAB,BLA761224,BLA,2021,2021-12-17,TEZSPIRE,ASTRAZENECA AB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TISOTUMAB VEDOTIN,BLA761208,BLA,2021,2021-09-20,TIVDAK,SEAGEN,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+TIVOZANIB,NDA212904,NDA,2021,2021-03-10,FOTIVDA,AVEO PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TRALOKINUMAB,BLA761180,BLA,2021,2021-12-27,ADBRY,LEO PHARMA AS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TRILACICLIB,NDA214200,NDA,2021,2021-02-12,COSELA,PHARMACOSMOS,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+UMBRALISIB,NDA213176,NDA,2021,2021-02-05,UKONIQ,TG THERAPS,Efficacy ; Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VERICIGUAT,NDA214377,NDA,2021,2021-01-19,VERQUVO,MSD,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VILOXAZINE,NDA211964,NDA,2021,2021-04-02,QELBREE,SUPERNUS PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VOCLOSPORIN,NDA213716,NDA,2021,2021-01-22,LUPKYNIS,AURINIA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VOSORITIDE,NDA214938,NDA,2021,2021-11-19,VOXZOGO,BIOMARIN PHARM,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+ABROCITINIB,NDA213871,NDA,2022,2022-01-14,CIBINQO,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ADAGRASIB,NDA216340,NDA,2022,2022-12-12,KRAZATI,BRISTOL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ANACAULASE,BLA761192,BLA,2022,2022-12-28,NEXOBRID,"MEDIWOUND, LTD",Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+DARIDOREXANT,NDA214985,NDA,2022,2022-01-07,QUVIVIQ,IDORSIA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DAXIBOTULINUMTOXINA,BLA761127,BLA,2022,2022-09-07,DAXXIFY,"REVANCE THERAPEUTICS, INC.",Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+DEUCRAVACITINIB,NDA214958,NDA,2022,2022-09-09,SOTYKTU,BRISTOL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+EFLAPEGRASTIM,BLA761148,BLA,2022,2022-09-09,ROLVEDON,SPECTRUM PHARMS,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+FARICIMAB,BLA761235,BLA,2022,2022-01-28,VABYSMO,GENENTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+FUTIBATINIB,NDA214801,NDA,2022,2022-09-30,LYTGOBI,TAIHO ONCOLOGY,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GADOPICLENOL,NDA216986,NDA,2022,2022-09-21,ELUCIREM,GUERBET,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+GANAXOLONE,NDA215904,NDA,2022,2022-03-18,ZTALMY,IMMEDICA PHARMA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LENACAPAVIR,NDA215973,NDA,2022,2022-12-22,SUNLENCA,GILEAD SCIENCES INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LUTETIUM LU 177 VIPIVOTIDE TETRAXETAN,NDA215833,NDA,2022,2022-03-23,PLUVICTO,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MAVACAMTEN,NDA214998,NDA,2022,2022-04-28,CAMZYOS,BRISTOL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MIRVETUXIMAB SORAVTANSINE,BLA761310,BLA,2022,2022-11-14,ELAHERE,IMMUNOGEN INC,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+MITAPIVAT,NDA216196,NDA,2022,2022-02-17,AQVESME|PYRUKYND,AGIOS PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MOSUNETUZUMAB,BLA761263,BLA,2022,2022-12-22,LUNSUMIO|LUNSUMIO VELO,GENENTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+OLIPUDASE ALFA,BLA761261,BLA,2022,2022-08-31,XENPOZYME,GENZYME CORP,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+OLUTASIDENIB,NDA215814,NDA,2022,2022-12-01,REZLIDHIA,RIGEL PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OMIDENEPAG ISOPROPYL,NDA215092,NDA,2022,2022-09-22,OMLONTI,OCUVEX THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+OTESECONAZOLE,NDA215888,NDA,2022,2022-04-26,VIVJOA,MYCOVIA PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PACRITINIB,NDA208712,NDA,2022,2022-02-28,VONJO,SOBI,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RELATLIMAB,BLA761234,BLA,2022,2022-03-18,OPDUALAG,BRISTOL MYERS SQUIBB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SPESOLIMAB,BLA761244,BLA,2022,2022-09-01,SPEVIGO,BOEHRINGER INGELHEIM PHARMACEUTICALS INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SUTIMLIMAB,BLA761164,BLA,2022,2022-02-04,ENJAYMO,"RECORDATI RARE DISEASES, INC.",Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TAPINAROF,NDA215272,NDA,2022,2022-05-23,VTAMA,ORGANON LLC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TAURURSODIOL,NDA216660,NDA,2022,2022-09-29,RELYVRIO,AMYLYX,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TEBENTAFUSP,BLA761228,BLA,2022,2022-01-25,KIMMTRAK,IMMUNOCORE LTD,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+TECLISTAMAB,BLA761291,BLA,2022,2022-10-25,TECVAYLI,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TEPLIZUMAB,BLA761183,BLA,2022,2022-11-17,TZIELD,PROVENTION BIO INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TERLIPRESSIN,NDA022231,NDA,2022,2022-09-14,TERLIVAZ,MALLINCKRODT IRELAND,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+TIRZEPATIDE,NDA215866,NDA,2022,2022-05-13,MOUNJARO|MOUNJARO (AUTOINJECTOR)|MOUNJARO KWIKPEN,ELI LILLY AND CO,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+TREMELIMUMAB,BLA761289,BLA,2022,2022-10-21,IMJUDO,ASTRAZENECA AB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+UBLITUXIMAB,BLA761238,BLA,2022,2022-12-28,BRIUMVI,"TG THERAPEUTICS, INC",Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+VONOPRAZAN,NDA215152,NDA,2022,2022-05-03,VOQUEZNA TRIPLE PAK,PHATHOM,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+VUTRISIRAN,NDA215515,NDA,2022,2022-06-13,AMVUTTRA,ALNYLAM PHARMS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+XENON XE 129 HYPERPOLARIZED,NDA214375,NDA,2022,2022-12-23,XENOVIEW,POLAREAN,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+AVACINCAPTAD PEGOL,NDA217225,NDA,2023,2023-08-04,IZERVAY,ASTELLAS,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+BEXAGLIFLOZIN,NDA214373,NDA,2023,2023-01-20,BRENZAVVY,THERACOSBIO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BIMEKIZUMAB,BLA761151,BLA,2023,2023-10-17,BIMZELX,UCB INC,Type 1 - New Molecular Entity and Type 4 - New Combination,Antibody,carried from validated 2006-2025 set,validated
+BIRCH TRITERPENES,NDA215064,NDA,2023,2023-12-18,FILSUVEZ,CHIESI,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+CAPIVASERTIB,NDA218197,NDA,2023,2023-11-16,TRUQAP,ASTRAZENECA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CIPAGLUCOSIDASE ALFA,BLA761204,BLA,2023,2023-09-28,POMBILITI,AMICUS THERAP US,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+DAPRODUSTAT,NDA216951,NDA,2023,2023-02-01,JESDUVROQ,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DURLOBACTAM,NDA216974,NDA,2023,2023-05-23,XACDURO (COPACKAGED),ENTASIS THERAP,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+EFBEMALENOGRASTIM ALFA,BLA761134,BLA,2023,2023-11-16,RYZNEUTA,EVIVE BIOTECHNOLOGY,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ELACESTRANT,NDA217639,NDA,2023,2023-01-27,ORSERDU,STEMLINE THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELRANATAMAB,BLA761345,BLA,2023,2023-08-14,ELREXFIO,PFIZER INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+EPCORITAMAB,BLA761324,BLA,2023,2023-05-19,EPKINLY,"GENMAB US, INC.",Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+EPLONTERSEN,NDA217388,NDA,2023,2023-12-21,WAINUA|WAINUA (AUTOINJECTOR),ASTRAZENECA AB,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+ETRASIMOD,NDA216956,NDA,2023,2023-10-12,VELSIPITY,PFIZER,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+FEZOLINETANT,NDA216578,NDA,2023,2023-05-12,VEOZAH,ASTELLAS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FLOTUFOLASTAT F 18 GALLIUM,NDA216023,NDA,2023,2023-05-25,POSLUMA,BLUE EARTH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FRUQUINTINIB,NDA217564,NDA,2023,2023-11-08,FRUZAQLA,TAKEDA PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GEPIRONE,NDA021164,NDA,2023,2023-09-22,EXXUA,FABRE KRAMER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GLOFITAMAB,BLA761309,BLA,2023,2023-06-15,COLUMVI,GENENTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+IPTACOPAN,NDA218276,NDA,2023,2023-12-05,FABHALTA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LECANEMAB,BLA761269,BLA,2023,2023-01-06,LEQEMBI,EISAI INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+LENIOLISIB,NDA217759,NDA,2023,2023-03-24,JOENJA,PHARMING,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LOTILANER,NDA217603,NDA,2023,2023-07-24,XDEMVY,TARSUS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MIRIKIZUMAB,BLA761279,BLA,2023,2023-10-26,OMVOH,ELI LILLY AND CO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+MOMELOTINIB,NDA216873,NDA,2023,2023-09-15,OJJAARA,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+MOTIXAFORTIDE,NDA217159,NDA,2023,2023-09-08,APHEXDA,AYRMID PHARMA,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+NEDOSIRAN,NDA215842,NDA,2023,2023-09-29,RIVFLOZA,NOVO,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+NIRMATRELVIR,NDA217188,NDA,2023,2023-05-25,PAXLOVID (COPACKAGED),PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NIROGACESTAT,NDA217677,NDA,2023,2023-11-27,OGSIVEO,SPRINGWORKS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NIRSEVIMAB,BLA761328,BLA,2023,2023-07-17,BEYFORTUS,ASTRAZENECA AB,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+OMAVELOXOLONE,NDA216718,NDA,2023,2023-02-28,SKYCLARYS,BIOGEN US,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PALOVAROTENE,NDA215559,NDA,2023,2023-08-16,SOHONOS,IPSEN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PEGUNIGALSIDASE ALFA,BLA761161,BLA,2023,2023-05-09,ELFABRIO,CHIESI FARMACEUTICI SPA,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+PERFLUOROHEXYLOCTANE,NDA216675,NDA,2023,2023-05-18,MIEBO,BAUSCH AND LOMB INC,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+PIRTOBRUTINIB,NDA216059,NDA,2023,2023-01-27,JAYPIRCA,LOXO ONCOL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+POZELIMAB,BLA761339,BLA,2023,2023-08-18,VEOPOZ,REGENERON PHARMACEUTICALS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+QUIZARTINIB,NDA216993,NDA,2023,2023-07-20,VANFLYTA,DAIICHI SANKYO INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+REPOTRECTINIB,NDA218213,NDA,2023,2023-11-15,AUGTYRO,BRISTOL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RETIFANLIMAB,BLA761334,BLA,2023,2023-03-22,ZYNYZ,INCYTE CORP,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+REZAFUNGIN,NDA217417,NDA,2023,2023-03-22,REZZAYO,MUNDIPHARMA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RITLECITINIB,NDA215830,NDA,2023,2023-06-23,LITFULO,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ROZANOLIXIZUMAB,BLA761286,BLA,2023,2023-06-26,RYSTIGGO,UCB INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SOMATROGON,BLA761184,BLA,2023,2023-06-27,NGENLA,PFIZER IRELAND PHARMACEUTICALS,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+SOTAGLIFLOZIN,NDA216203,NDA,2023,2023-05-26,INPEFA,LEXICON PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SPARSENTAN,NDA216403,NDA,2023,2023-02-17,FILSPARI,TRAVERE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TALQUETAMAB,BLA761342,BLA,2023,2023-08-09,TALVEY,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TAUROLIDINE,NDA214520,NDA,2023,2023-11-15,DEFENCATH,CORMEDIX,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+TOFERSEN,NDA215887,NDA,2023,2023-04-25,QALSODY,BIOGEN MA,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+TORIPALIMAB,BLA761240,BLA,2023,2023-10-27,LOQTORZI,COHERUS BIOSCIENCES INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TROFINETIDE,NDA217026,NDA,2023,2023-03-10,DAYBUE,ACADIA PHARMS INC,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+VAMOROLONE,NDA215239,NDA,2023,2023-10-26,AGAMREE,CATALYST PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VELMANASE ALFA,BLA761278,BLA,2023,2023-02-16,LAMZEDE,CHIESI FARMACEUTICI SPA,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+ZAVEGEPANT,NDA216386,NDA,2023,2023-03-09,ZAVZPRET,PFIZER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ZILUCOPLAN,NDA216834,NDA,2023,2023-10-17,ZILBRYSQ,UCB INC,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+ZURANOLONE,NDA217369,NDA,2023,2023-08-04,ZURZUVAE,BIOGEN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ACORAMIDIS,NDA216540,NDA,2024,2024-11-22,ATTRUBY,BRIDGEBIO PHARMA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+APROCITENTAN,NDA217686,NDA,2024,2024-03-19,TRYVIO,IDORSIA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ARIMOCLOMOL,NDA214927,NDA,2024,2024-09-20,MIPLYFFA,ZEVRA DENMARK,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AXATILIMAB,BLA761411,BLA,2024,2024-08-14,NIKTIMVO,INCYTE CORP,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+BERDAZIMER,NDA217424,NDA,2024,2024-01-05,ZELSUVMI,LNHC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CEFTOBIPROLE MEDOCARIL,NDA218275,NDA,2024,2024-04-03,ZEVTERA,ISTX,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CONCIZUMAB,BLA761315,BLA,2024,2024-12-20,ALHEMO,NOVO NORDISK INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+COSIBELIMAB,BLA761297,BLA,2024,2024-12-13,UNLOXCYT,CHECKPOINT THERAPEUTICS INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+CRINECERFONT,NDA218808,NDA,2024,2024-12-13,CRENESSITY,NEUROCRINE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CROVALIMAB,BLA761388,BLA,2024,2024-06-20,PIASKY,GENENTECH INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+DANICOPAN,NDA218037,NDA,2024,2024-03-29,VOYDEYA,ALEXION PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DEURUXOLITINIB,NDA217900,NDA,2024,2024-07-25,LEQSELVI,SUN PHARM INDS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DEUTIVACAFTOR,NDA218730,NDA,2024,2024-12-20,ALYFTREK,VERTEX PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DONANEMAB,BLA761248,BLA,2024,2024-07-02,KISUNLA,ELI LILLY CO,Type 1 - New Molecular Entity and Type 4 - New Combination,Antibody,carried from validated 2006-2025 set,validated
+ELAFIBRANOR,NDA218860,NDA,2024,2024-06-10,IQIRVO,IPSEN,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ENMETAZOBACTAM,NDA216165,NDA,2024,2024-02-22,EXBLIFEP,ORCHID PHARMA,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+ENSARTINIB,NDA218171,NDA,2024,2024-12-18,ENSACOVE,XCOVERY,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ENSIFENTRINE,NDA217389,NDA,2024,2024-06-26,OHTUVAYRE,MSD,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FLURPIRIDAZ F 18,NDA215168,NDA,2024,2024-09-27,FLYRCADO,GE HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+GIVINOSTAT,NDA217865,NDA,2024,2024-03-21,DUVYZAT,ITALFARMACO SPA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IMETELSTAT,NDA217779,NDA,2024,2024-06-06,RYTELO,GERON,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+INAVOLISIB,NDA219249,NDA,2024,2024-10-10,ITOVEBI,GENENTECH INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IOMEPROL,NDA216016,NDA,2024,2024-11-27,IOMERVU,BRACCO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LANDIOLOL,NDA217202,NDA,2024,2024-11-22,RAPIBLYK,AOP HLTH US,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LAZERTINIB,NDA219008,NDA,2024,2024-08-19,LAZCLUZE,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LEBRIKIZUMAB,BLA761306,BLA,2024,2024-09-13,EBGLYSS,ELI LILLY AND CO,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+LETIBOTULINUMTOXINA,BLA761225,BLA,2024,2024-02-29,LETYBO,HUGEL INC,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+LEVACETYLLEUCINE,NDA219132,NDA,2024,2024-09-24,AQNEURSA,INTRABIO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+MARSTACIMAB,BLA761369,BLA,2024,2024-10-11,HYMPAVZI,PFIZER INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+MAVORIXAFOR,NDA218709,NDA,2024,2024-04-26,XOLREMDI,X4 PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NEMOLIZUMAB,BLA761390,BLA,2024,2024-08-12,NEMLUVIO,GALDERMA LABS LP,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+NOGAPENDEKIN ALFA INBAKICEPT,BLA761336,BLA,2024,2024-04-22,ANKTIVA,"ALTOR BIOSCIENCE, LLC, AN INDIRECT WHOLLY-OWNED SU",Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+OLEZARSEN,NDA218614,NDA,2024,2024-12-19,TRYNGOLZA (AUTOINJECTOR),IONIS PHARMS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+PALOPEGTERIPARATIDE,NDA216490,NDA,2024,2024-08-09,YORVIPATH,ASCENDIS PHARMA BONE,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+PEGULICIANINE,NDA214511,NDA,2024,2024-04-17,LUMISIGHT,LUMICELL,Type 1 - New Molecular Entity,Other,carried from validated 2006-2025 set,validated
+RESMETIROM,NDA217785,NDA,2024,2024-03-14,REZDIFFRA,MADRIGAL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+REVUMENIB,NDA218944,NDA,2024,2024-11-15,REVUFORJ,SYNDAX,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SELADELPAR,NDA217899,NDA,2024,2024-08-14,LIVDELZI,GILEAD SCIENCES INC,Type 1 - New Molecular Entity,Small molecule,rule+chembl concordant,validated
+SOFPIRONIUM,NDA217347,NDA,2024,2024-06-18,SOFDRA,BOTANIX SB,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SOTATERCEPT,BLA761363,BLA,2024,2024-03-26,WINREVAIR,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+SULOPENEM,NDA213972,NDA,2024,2024-10-25,ORLYNVAH,ITERUM THERAP,Type 1 - New Molecular Entity and Type 4 - New Combination,Small molecule,carried from validated 2006-2025 set,validated
+TARLATAMAB,BLA761344,BLA,2024,2024-05-16,IMDELLTRA,AMGEN INC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TISLELIZUMAB,BLA761232,BLA,2024,2024-03-13,TEVIMBRA,BEIGENE,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+TOVORAFENIB,NDA217700,NDA,2024,2024-04-23,OJEMDA,DAY ONE BIOPHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VADADUSTAT,NDA215192,NDA,2024,2024-03-27,VAFSEO,AKEBIA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VANZACAFTOR,NDA218730,NDA,2024,2024-12-20,ALYFTREK,VERTEX PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VORASIDENIB,NDA218784,NDA,2024,2024-08-06,VORANIGO,SERVIER,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+XANOMELINE,NDA216158,NDA,2024,2024-09-26,COBENFY,BRISTOL-MYERS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ZANIDATAMAB,BLA761416,BLA,2024,2024-11-20,ZIIHERA,JAZZ PHARMS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ZENOCUTUZUMAB,BLA761352,BLA,2024,2024-12-04,BIZENGRI,MERUS N.V.,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ZOLBETUXIMAB,BLA761365,BLA,2024,2024-10-18,VYLOY,ASTELLAS,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+ACECLIDINE,NDA218585,NDA,2025,2025-07-31,VIZZ,LENZ THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ACOLTREMON,NDA217370,NDA,2025,2025-05-28,TRYPTYR,ALCON LABS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AFICAMTEN,NDA219083,NDA,2025,2025-12-19,MYQORZO,CYTOKINETICS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ATRASENTAN,NDA219208,NDA,2025,2025-04-02,VANRAFIA,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+AVUTOMETINIB,NDA219616,NDA,2025,2025-05-08,AVMAPKI FAKZYNJA CO-PACK (COPACKAGED),VERASTEM INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+BELANTAMAB MAFODOTIN,BLA761440,BLA,2025,2025-10-23,BLENREP,GLAXOSMITHKLINE LLC,Type 2 - New Active Ingredient,ADC,carried from validated 2006-2025 set,validated
+BRENSOCATIB,NDA217673,NDA,2025,2025-08-12,BRINSUPRI,INSMED INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+CLESROVIMAB,BLA761432,BLA,2025,2025-06-09,ENFLONSIA,MERCK SHARP DOHME,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+DATOPOTAMAB DERUXTECAN,BLA761394,BLA,2025,2025-01-17,DATROWAY,DAIICHI SANKYO INC,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+DEFACTINIB,NDA219616,NDA,2025,2025-05-08,AVMAPKI FAKZYNJA CO-PACK (COPACKAGED),VERASTEM INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DELGOCITINIB,NDA219155,NDA,2025,2025-07-23,ANZUPGO,LEO PHARMA AS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DEPEMOKIMAB,BLA761458,BLA,2025,2025-12-16,EXDENSUR,GLAXOSMITHKLINE LLC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+DONIDALORSEN,NDA219407,NDA,2025,2025-08-21,DAWNZERA (AUTOINJECTOR),IONIS PHARMS INC,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+DORDAVIPRONE,NDA219876,NDA,2025,2025-08-06,MODEYSO,CHIMERIX,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DOXECITINE,NDA219792,NDA,2025,2025-11-03,KYGEVVI,UCB INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+DOXRIBTIMINE,NDA219792,NDA,2025,2025-11-03,KYGEVVI,UCB INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ELAMIPRETIDE,NDA215244,NDA,2025,2025-09-19,FORZINITY,STEALTH BIOTHERAPS,Type 1 - New Molecular Entity,Peptide,carried from validated 2006-2025 set,validated
+ELINZANETANT,NDA219469,NDA,2025,2025-10-24,LYNKUET,BAYER HLTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ETRIPAMIL,NDA218571,NDA,2025,2025-12-12,CARDAMYST,MILESTONE PHARMS USA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+FITUSIRAN,NDA219019,NDA,2025,2025-03-28,QFITLIA,GENZYME CORP,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+GARADACIMAB,BLA761367,BLA,2025,2025-06-16,ANDEMBRY,CSL BEHRING LLC,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+GEPOTIDACIN,NDA218230,NDA,2025,2025-03-25,BLUJEPA,GLAXOSMITHKLINE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+IMLUNESTRANT,NDA218881,NDA,2025,2025-09-25,INLURIYO,ELI LILLY AND CO,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+LERODALCIBEP,BLA761427,BLA,2025,2025-12-12,LEROCHOL,"LIB THERAPEUTICS, INC.",Type 1 - New Molecular Entity,Protein/Enzyme,carried from validated 2006-2025 set,validated
+LINVOSELTAMAB,BLA761400,BLA,2025,2025-07-02,LYNOZYFIC,"RENGENERON PHARMACEUTICALS, INC.",Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+MIRDAMETINIB,NDA219379,NDA,2025,2025-02-11,GOMEKLI,SPRINGWORKS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NARSOPLIMAB,BLA761152,BLA,2025,2025-12-23,YARTEMLEA,OMEROS CORP,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+NERANDOMILAST,NDA218764,NDA,2025,2025-10-07,JASCAYD,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+NIPOCALIMAB,BLA761430,BLA,2025,2025-04-29,IMAAVY,JANSSEN BIOTECH,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+PALTUSOTINE,NDA219070,NDA,2025,2025-09-25,PALSONIFY,CRINETICS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+PENPULIMAB,BLA761258,BLA,2025,2025-04-23,PENPULIMAB-KCQX,AKESO BIOPHARMA,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+PLOZASIRAN,NDA219947,NDA,2025,2025-11-18,REDEMPLO,ARROWHEAD,Type 1 - New Molecular Entity,Oligonucleotide,carried from validated 2006-2025 set,validated
+REMIBRUTINIB,NDA218436,NDA,2025,2025-09-30,RHAPSIDO,NOVARTIS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+RILZABRUTINIB,NDA219685,NDA,2025,2025-08-29,WAYRILZ,GENZYME CORP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SEBETRALSTAT,NDA219301,NDA,2025,2025-07-03,EKTERLY,KALVISTA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SEPIAPTERIN,NDA219666,NDA,2025,2025-07-28,SEPHIENCE,PTC THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SEVABERTINIB,NDA219972,NDA,2025,2025-11-19,HYRNUO,BAYER HEALTHCARE,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SIBEPRENLIMAB,BLA761434,BLA,2025,2025-11-25,VOYXACT,OTSUKA PHARM CO LTD,Type 1 - New Molecular Entity,Antibody,carried from validated 2006-2025 set,validated
+SUNVOZERTINIB,NDA219839,NDA,2025,2025-07-02,ZEGFROVY,DIZAL,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+SUZETRIGINE,NDA219209,NDA,2025,2025-01-30,JOURNAVX,VERTEX PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TALETRECTINIB,NDA219713,NDA,2025,2025-06-11,IBTROZI,NUVATION,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TELISOTUZUMAB VEDOTIN,BLA761384,BLA,2025,2025-05-14,EMRELIS,ABBVIE INC,Type 1 - New Molecular Entity,ADC,carried from validated 2006-2025 set,validated
+TRADIPITANT,NDA220152,NDA,2025,2025-12-30,NEREUS,VANDA PHARMS INC,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+TREOSULFAN,NDA214759,NDA,2025,2025-01-21,GRAFAPEX,MEDEXUS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+VIMSELTINIB,NDA219304,NDA,2025,2025-02-14,ROMVIMZA,DECIPHERA PHARMS,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ZIFTOMENIB,NDA220305,NDA,2025,2025-11-13,KOMZIFTI,KURA,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ZOLIFLODACIN,NDA219491,NDA,2025,2025-12-12,NUZOLVENCE,ENTASIS THERAP,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated
+ZONGERTINIB,NDA219042,NDA,2025,2025-08-08,HERNEXEOS,BOEHRINGER INGELHEIM,Type 1 - New Molecular Entity,Small molecule,carried from validated 2006-2025 set,validated

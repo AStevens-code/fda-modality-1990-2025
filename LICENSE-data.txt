@@ -1,0 +1,13 @@
+Scope note for the CC BY 4.0 licence in the root `LICENSE` file.
+The full legal code is in `LICENSE`; this file records what it covers and the
+provenance of third-party material.
+
+Data in data/, validation/ and snapshot/ are licensed CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+
+Underlying FDA source records are works of the US Government and are not subject to
+copyright in the United States.
+
+ChEMBL-derived identifiers in validation/chembl_crosswalk.csv originate from ChEMBL,
+licensed CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), and are
+redistributed here under those terms.

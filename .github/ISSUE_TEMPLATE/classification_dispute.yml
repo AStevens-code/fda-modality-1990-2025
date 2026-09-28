@@ -1,0 +1,46 @@
+name: Modality classification dispute
+description: Argue that a substance is assigned to the wrong modality class
+title: "[class] "
+labels: ["data: approvals"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before filing: `data/approvals_substance_level.csv` carries a `final_basis` column
+        recording how each classification was decided, and `docs/METHODOLOGY_approvals.md`
+        sets out the seven-class scheme and its boundary rules. Many apparent errors are
+        deliberate boundary decisions - fusion proteins, conjugated peptides and
+        oligonucleotide-small-molecule hybrids are the usual ones.
+  - type: input
+    id: moiety
+    attributes:
+      label: Active moiety as it appears in approvals_substance_level.csv
+    validations:
+      required: true
+  - type: input
+    id: appno
+    attributes:
+      label: Application number (NDA/BLA)
+    validations:
+      required: true
+  - type: dropdown
+    id: proposed
+    attributes:
+      label: Class you believe is correct
+      options:
+        - Small molecule
+        - Antibody
+        - ADC
+        - Peptide
+        - Protein/Enzyme
+        - Oligonucleotide
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Structural or regulatory grounds, ideally with a ChEMBL or FDA reference.
+    validations:
+      required: true

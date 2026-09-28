@@ -1,0 +1,58 @@
+name: Withdrawal-list correction
+description: Report a missing, mis-dated or wrongly-listed US market withdrawal
+title: "[withdrawal] "
+labels: ["data: withdrawals"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The withdrawals series is the weakest component of this dataset and the one most
+        likely to contain errors. No machine-readable registry of US market withdrawals
+        exists, so the 45 entries were curated by hand and completeness is **not**
+        benchmarkable. Corrections are genuinely welcome.
+
+        Please read `docs/METHODOLOGY_withdrawals.md` first - in particular the inclusion
+        criteria, which exclude supply-driven discontinuations and withdrawals in markets
+        other than the US.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of correction is this?
+      options:
+        - A withdrawal is missing from the list
+        - The withdrawal year is wrong
+        - The modality classification is wrong
+        - This entry should not be listed (does not meet the inclusion criteria)
+        - The "returned to market" flag is wrong
+    validations:
+      required: true
+  - type: input
+    id: drug
+    attributes:
+      label: Drug (active moiety, and brand name if known)
+      placeholder: e.g. rofecoxib (Vioxx)
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year of withdrawal from the US market
+      description: Year the product left the US market, not the year it was approved.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Citable source
+      description: >
+        A Federal Register notice, FDA safety communication, company press release or
+        peer-reviewed citation. A correction without a source cannot be accepted, because
+        the whole series rests on traceable evidence.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+    validations:
+      required: false

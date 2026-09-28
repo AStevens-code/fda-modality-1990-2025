@@ -1,0 +1,21 @@
+drug,note,status
+ASTEMIZOLE,"Hismanal 1988, w/d 1999",ABSENT from Drugs@FDA
+TERFENADINE,"Seldane 1985, w/d 1998",ABSENT from Drugs@FDA
+DEXFENFLURAMINE,"Redux 1996, w/d 1997",ABSENT from Drugs@FDA
+MIBEFRADIL,"Posicor 1997, w/d 1998",ABSENT from Drugs@FDA
+TROGLITAZONE,"Rezulin 1997, w/d 2000",present (in universe)
+CERIVASTATIN,"Baycol 1997, w/d 2001",present (in universe)
+ROFECOXIB,"Vioxx 1999, w/d 2004",present (in universe)
+VALDECOXIB,"Bextra 2001, w/d 2005",present (in universe)
+CISAPRIDE,"Propulsid 1993, w/d 2000",present (in universe)
+GREPAFLOXACIN,"Raxar 1997, w/d 1999",present (in universe)
+TROVAFLOXACIN,"Trovan 1997, w/d 2001",present (in universe)
+RAPACURONIUM,"Raplon 1999, w/d 2001",present (in universe)
+ALOSETRON,"Lotronex 2000, w/d then back",present (in universe)
+TEGASEROD,"Zelnorm 2002, w/d 2007",present (in universe)
+SIBUTRAMINE,"Meridia 1997, w/d 2010",present (in universe)
+PEMOLINE,"Cylert, w/d 2005",present (in corpus only)
+LEVOMETHADYL,"Orlaam 1993, w/d 2003",present (in universe)
+BROMFENAC,"Duract 1997, w/d 1998",present (in corpus only)
+TOLCAPONE,"Tasmar 1998, restricted",present (in universe)
+ZANAMIVIR,"Relenza 1999, still marketed",present (in universe)
